@@ -1,0 +1,3564 @@
+{
+    "season": {
+        "id": "a538d200-e916-4272-aa07-b486094a1668",
+        "year": 2023,
+        "type": "REG",
+        "name": "REG"
+    },
+    "week": {
+        "id": "0bd700b9-3628-4aa3-a416-31049fc5ace9",
+        "sequence": 2,
+        "title": "2"
+    },
+    "teams": [
+        {
+            "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+            "name": "Titans",
+            "market": "Tennessee",
+            "alias": "TEN",
+            "sr_id": "sr:competitor:367364",
+            "players": [
+                {
+                    "id": "aac96096-362f-4254-952a-5b3b04472f19",
+                    "name": "Amani Hooker",
+                    "jersey": "37",
+                    "position": "DB",
+                    "sr_id": "sr:player:1223998",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "5c48ade7-4b9a-4757-9643-87a6e3839e2b",
+                    "name": "DeAndre Hopkins",
+                    "jersey": "10",
+                    "position": "WR",
+                    "sr_id": "sr:player:827641",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "c87aaf5b-e1e9-4d18-b0f1-f328b646031d",
+                    "name": "Kristian Fulton",
+                    "jersey": "26",
+                    "position": "CB",
+                    "sr_id": "sr:player:2040061",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "af71f149-7758-40b7-973a-9fe6320cf4f5",
+                    "name": "Tyjae Spears",
+                    "jersey": "32",
+                    "position": "RB",
+                    "sr_id": "sr:player:1700119",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "02e6087b-daa6-45b4-ad5a-0bf4f3893011",
+                    "name": "Peter Skoronski",
+                    "jersey": "77",
+                    "position": "OL",
+                    "sr_id": "sr:player:2001087",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "a78206af-6d78-4b4c-90e3-dc4bd62ac80b",
+                    "name": "Teair Tart",
+                    "jersey": "93",
+                    "position": "DT",
+                    "sr_id": "sr:player:1568170",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "bb6a7db0-133b-11ed-9919-531ded80fd4f",
+                    "name": "Tre Avery",
+                    "jersey": "23",
+                    "position": "CB",
+                    "sr_id": "sr:player:1271892",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "88c9dc8c-2952-4e7c-8677-f29e30d15309",
+                    "name": "Dillon Radunz",
+                    "jersey": "75",
+                    "position": "OL",
+                    "sr_id": "sr:player:2198150",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "45763342-0208-46ab-a5d2-6c6e4ff66b66",
+                    "name": "Treylon Burks",
+                    "jersey": "16",
+                    "position": "WR",
+                    "sr_id": "sr:player:1833768",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Personal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+            "name": "Seahawks",
+            "market": "Seattle",
+            "alias": "SEA",
+            "sr_id": "sr:competitor:4430",
+            "players": [
+                {
+                    "id": "c02b49d3-ddc1-4ffc-9f40-487199882fa5",
+                    "name": "Jarran Reed",
+                    "jersey": "90",
+                    "position": "DE",
+                    "sr_id": "sr:player:1074138",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "ef422c88-b74f-4720-a831-947010c44ebe",
+                    "name": "Jordyn Brooks",
+                    "jersey": "56",
+                    "position": "LB",
+                    "sr_id": "sr:player:2040011",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest",
+                            "secondary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "b95a1464-5824-4816-8829-0a9f52644166",
+                    "name": "Charles Cross",
+                    "jersey": "67",
+                    "position": "T",
+                    "sr_id": "sr:player:1695869",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                },
+                {
+                    "id": "6f62968f-4241-439f-b5c6-6723920ca5b2",
+                    "name": "Boye Mafe",
+                    "jersey": "53",
+                    "position": "LB",
+                    "sr_id": "sr:player:1231300",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "2697a8a5-c22d-4290-a266-5b153bf384e3",
+                    "name": "Mike Morris",
+                    "jersey": "94",
+                    "position": "DE",
+                    "sr_id": "sr:player:1694617",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "1a92b0ad-3eb2-4df3-bf02-04c4d9ffe10c",
+                    "name": "Jamal Adams",
+                    "jersey": "33",
+                    "position": "SS",
+                    "sr_id": "sr:player:1129509",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "ab5d4d72-fb1c-4aeb-887b-f6ca35f679bf",
+                    "name": "Devin Bush",
+                    "jersey": "0",
+                    "position": "LB",
+                    "sr_id": "sr:player:1218240",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "de760528-1dc0-416a-a978-b510d20692ff",
+            "name": "Cardinals",
+            "market": "Arizona",
+            "alias": "ARI",
+            "sr_id": "sr:competitor:4412",
+            "players": [
+                {
+                    "id": "abdf27dc-a54d-427c-a745-173f1c485292",
+                    "name": "Josh Woods",
+                    "jersey": "10",
+                    "position": "LB",
+                    "sr_id": "sr:player:1221190",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "d96246d7-aa2c-4d05-9c58-8d6bc5e20cdf",
+                    "name": "Kelvin Beachum",
+                    "jersey": "68",
+                    "position": "OL",
+                    "sr_id": "sr:player:829037",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hand"
+                        }
+                    ]
+                },
+                {
+                    "id": "28a084c0-14df-499f-bd1f-b975603626b7",
+                    "name": "James Conner",
+                    "jersey": "6",
+                    "position": "RB",
+                    "sr_id": "sr:player:1129821",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "2040899a-0b04-4de7-900b-f9e6861c6150",
+                    "name": "Leki Fotu",
+                    "jersey": "95",
+                    "position": "DT",
+                    "sr_id": "sr:player:2040207",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "9d546e3b-0eb3-4926-a5ef-eb5e48b9330e",
+                    "name": "L.J. Collier",
+                    "jersey": "91",
+                    "position": "DL",
+                    "sr_id": "sr:player:1220106",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Biceps"
+                        }
+                    ]
+                },
+                {
+                    "id": "5ce20f3e-0f02-4f53-a2ef-5b076361f2b1",
+                    "name": "Budda Baker",
+                    "jersey": "3",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1129783",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+            "name": "Eagles",
+            "market": "Philadelphia",
+            "alias": "PHI",
+            "sr_id": "sr:competitor:4428",
+            "players": [
+                {
+                    "id": "0db6df51-945b-4123-a790-0ba9d0473415",
+                    "name": "James Bradberry IV",
+                    "jersey": "24",
+                    "position": "CB",
+                    "sr_id": "sr:player:987617",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "e2a5882a-dcc1-4800-889f-3b957b21834f",
+                    "name": "Kenneth Gainwell",
+                    "jersey": "14",
+                    "position": "RB",
+                    "sr_id": "sr:player:2197640",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ribs"
+                        }
+                    ]
+                },
+                {
+                    "id": "49671677-0e37-4c70-ae1b-ec36be357eb9",
+                    "name": "Fletcher Cox",
+                    "jersey": "91",
+                    "position": "DT",
+                    "sr_id": "sr:player:830683",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ribs"
+                        }
+                    ]
+                },
+                {
+                    "id": "f67efd90-ce17-11ec-bebb-4fec1e38b0e5",
+                    "name": "Reed Blankenship",
+                    "jersey": "32",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1236166",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ribs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+            "name": "Colts",
+            "market": "Indianapolis",
+            "alias": "IND",
+            "sr_id": "sr:competitor:4421",
+            "players": [
+                {
+                    "id": "8237c04f-a1c4-4c31-b5de-3afb3c81389f",
+                    "name": "Rigoberto Sanchez",
+                    "jersey": "8",
+                    "position": "P",
+                    "sr_id": "sr:player:1132247",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "d3fee51d-67f5-413b-a4b2-bde86b97babe",
+                    "name": "Quenton Nelson",
+                    "jersey": "56",
+                    "position": "G",
+                    "sr_id": "sr:player:1188912",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                },
+                {
+                    "id": "59f460a8-b5af-40e6-840c-429762b278b3",
+                    "name": "Drew Ogletree",
+                    "jersey": "85",
+                    "position": "TE",
+                    "sr_id": "sr:player:2130246",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "e550d0d9-2e56-4c71-8a9a-8a683daf32a3",
+                    "name": "Braden Smith",
+                    "jersey": "72",
+                    "position": "T",
+                    "sr_id": "sr:player:1222668",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee",
+                            "secondary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "d8fef424-aa41-4c26-9bce-1265b53cd5e2",
+                    "name": "Zack Moss",
+                    "jersey": "21",
+                    "position": "RB",
+                    "sr_id": "sr:player:2039991",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Forearm"
+                        }
+                    ]
+                },
+                {
+                    "id": "bcc0167c-05fd-4b23-981e-60b8784ceb33",
+                    "name": "Kylen Granson",
+                    "jersey": "83",
+                    "position": "TE",
+                    "sr_id": "sr:player:2198142",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+            "name": "Saints",
+            "market": "New Orleans",
+            "alias": "NO",
+            "sr_id": "sr:competitor:4425",
+            "players": [
+                {
+                    "id": "0226b03b-f91d-4223-9813-9fcd2e9c3acc",
+                    "name": "Juwan Johnson",
+                    "jersey": "83",
+                    "position": "TE",
+                    "sr_id": "sr:player:2040489",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "e0248ecc-27b4-4368-bf97-47a73cb41ec2",
+                    "name": "J.T. Gray",
+                    "jersey": "48",
+                    "position": "DB",
+                    "sr_id": "sr:player:1182788",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "66627686-34fe-4599-84ac-e436fd7d798a",
+                    "name": "Kendre Miller",
+                    "jersey": "25",
+                    "position": "RB",
+                    "sr_id": "sr:player:2071633",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "d77eae11-9ecb-4713-878a-29900d67267b",
+                    "name": "Ryan Ramczyk",
+                    "jersey": "71",
+                    "position": "T",
+                    "sr_id": "sr:player:1129553",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "fd85786d-3900-4dc0-9b30-334ee30413ed",
+                    "name": "Jimmy Graham",
+                    "jersey": "80",
+                    "position": "TE",
+                    "sr_id": "sr:player:827505",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Rest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+            "name": "Giants",
+            "market": "New York",
+            "alias": "NYG",
+            "sr_id": "sr:competitor:4426",
+            "players": [
+                {
+                    "id": "65533cd0-792b-42cb-808f-18cbac2e51cb",
+                    "name": "Cam Brown",
+                    "jersey": "47",
+                    "position": "LB",
+                    "sr_id": "sr:player:2040187",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "3adb2e85-ff63-4644-8ca9-a10651e53c04",
+                    "name": "Cor'Dale Flott",
+                    "jersey": "28",
+                    "position": "CB",
+                    "sr_id": "sr:player:1694063",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "1ffc735b-74d8-44d2-ab32-00c5485c799f",
+                    "name": "Sterling Shepard",
+                    "jersey": "3",
+                    "position": "WR",
+                    "sr_id": "sr:player:1074038",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "63f8a401-f308-4463-9d0b-4335b98da682",
+                    "name": "Graham Gano",
+                    "jersey": "9",
+                    "position": "K",
+                    "sr_id": "sr:player:828179",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "78af6ab8-1003-423d-b29b-111d8f4d45ad",
+                    "name": "Azeez Ojulari",
+                    "jersey": "51",
+                    "position": "OLB",
+                    "sr_id": "sr:player:2197868",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "b9b3e414-dfc4-41f4-8ebb-0924c7d8434c",
+                    "name": "Gervarrius Owens",
+                    "jersey": "39",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1268804",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "ba5805bd-c67e-47d8-8d47-c8440a268cd4",
+                    "name": "Matt Peart",
+                    "jersey": "74",
+                    "position": "T",
+                    "sr_id": "sr:player:1197654",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Elbow"
+                        }
+                    ]
+                },
+                {
+                    "id": "582dfe0e-98f3-48a5-8a2d-a52baa926b05",
+                    "name": "Wan'Dale Robinson",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:1695297",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "b493daf9-e550-497c-b382-4ffda2e47260",
+                    "name": "Andrew Thomas",
+                    "jersey": "78",
+                    "position": "T",
+                    "sr_id": "sr:player:2040607",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "14c97c9f-26e8-4944-9299-f90de6aeada3",
+                    "name": "Darren Waller",
+                    "jersey": "12",
+                    "position": "TE",
+                    "sr_id": "sr:player:835255",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring",
+                            "secondary": "Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "e905a38b-bf94-4d46-b9e3-a7b534258a20",
+                    "name": "Deonte Banks",
+                    "jersey": "25",
+                    "position": "CB",
+                    "sr_id": "sr:player:1694573",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+            "name": "Lions",
+            "market": "Detroit",
+            "alias": "DET",
+            "sr_id": "sr:competitor:4419",
+            "players": [
+                {
+                    "id": "1b17a67d-c771-4e7d-80ea-fb1d19adb200",
+                    "name": "Taylor Decker",
+                    "jersey": "68",
+                    "position": "T",
+                    "sr_id": "sr:player:1523213",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "e8b1322a-6162-4535-b6af-4ca60ce8b09c",
+                    "name": "Khalil Dorsey",
+                    "jersey": "30",
+                    "position": "CB",
+                    "sr_id": "sr:player:1200304",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "ae6a5f6b-20ac-4b44-9d05-b75634aa1199",
+                    "name": "Emmanuel Moseley",
+                    "jersey": "4",
+                    "position": "CB",
+                    "sr_id": "sr:player:1217748",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee",
+                            "secondary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "44176cc9-9025-4dec-a790-fbfa57686a6c",
+                    "name": "Frank Ragnow",
+                    "jersey": "77",
+                    "position": "C",
+                    "sr_id": "sr:player:1209686",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-14T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                },
+                {
+                    "id": "6aa78083-655c-4855-b22b-b4e4f77b5dab",
+                    "name": "Josh Paschal",
+                    "jersey": "93",
+                    "position": "DL",
+                    "sr_id": "sr:player:1264794",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+            "name": "Bengals",
+            "market": "Cincinnati",
+            "alias": "CIN",
+            "sr_id": "sr:competitor:4416",
+            "players": [
+                {
+                    "id": "2f1b4df5-a65b-4b13-8a86-81c03259e822",
+                    "name": "Cam Sample",
+                    "jersey": "96",
+                    "position": "DE",
+                    "sr_id": "sr:player:2198182",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "f7397b71-3756-4b1b-9f61-8618164a4098",
+                    "name": "Chris Evans",
+                    "jersey": "25",
+                    "position": "RB",
+                    "sr_id": "sr:player:2198022",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "f46bc3a8-dbcc-4d96-8d6e-50034429de29",
+                    "name": "Joseph Ossai",
+                    "jersey": "58",
+                    "position": "DE",
+                    "sr_id": "sr:player:2197650",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "05cb1d47-3517-4410-a61b-75adabbfb910",
+                    "name": "Logan Wilson",
+                    "jersey": "55",
+                    "position": "LB",
+                    "sr_id": "sr:player:2040351",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "3023ac10-4e7f-425f-9fc5-2b8e6332c92e",
+                    "name": "Joe Burrow",
+                    "jersey": "9",
+                    "position": "QB",
+                    "sr_id": "sr:player:1218002",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "46b69ef9-920c-4645-abf7-139738e3fd9c",
+                    "name": "Dax Hill",
+                    "jersey": "23",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1694601",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hand"
+                        }
+                    ]
+                },
+                {
+                    "id": "5e11c306-6387-46ed-8a6d-3ff7a8210ed5",
+                    "name": "Chidobe Awuzie",
+                    "jersey": "22",
+                    "position": "CB",
+                    "sr_id": "sr:player:1129805",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "cbe52cf7-a9fe-495c-bd77-3a22a7f7208f",
+                    "name": "Markus Bailey",
+                    "jersey": "51",
+                    "position": "LB",
+                    "sr_id": "sr:player:2040119",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+            "name": "Chargers",
+            "market": "Los Angeles",
+            "alias": "LAC",
+            "sr_id": "sr:competitor:4429",
+            "players": [
+                {
+                    "id": "b345f3db-d5aa-43ba-9f17-914c54864236",
+                    "name": "Eric Kendricks",
+                    "jersey": "6",
+                    "position": "LB",
+                    "sr_id": "sr:player:834703",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring",
+                            "secondary": "NIR - Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "dcbf373f-7336-457f-888f-02596a391d89",
+                    "name": "Chris Rumph II",
+                    "jersey": "94",
+                    "position": "OLB",
+                    "sr_id": "sr:player:2197922",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "1ce88c74-024e-4288-94ee-5dca10362153",
+                    "name": "Joey Bosa",
+                    "jersey": "97",
+                    "position": "OLB",
+                    "sr_id": "sr:player:986877",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "e5b8c439-a48a-4f83-b63b-1a4d30e04cd3",
+                    "name": "Austin Ekeler",
+                    "jersey": "30",
+                    "position": "RB",
+                    "sr_id": "sr:player:1131789",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle",
+                            "secondary": "NIR - Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "93f17bc5-55d5-441a-a29d-d419ed4725e7",
+                    "name": "Daiyan Henley",
+                    "jersey": "0",
+                    "position": "LB",
+                    "sr_id": "sr:player:1236642",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+            "name": "Buccaneers",
+            "market": "Tampa Bay",
+            "alias": "TB",
+            "sr_id": "sr:competitor:4388",
+            "players": [
+                {
+                    "id": "9a612961-9fdf-47d0-b7ca-32b55adb1f61",
+                    "name": "Lavonte David",
+                    "jersey": "54",
+                    "position": "LB",
+                    "sr_id": "sr:player:830357",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "c48c21d9-0ae5-478c-ad34-30a660cfa9b8",
+                    "name": "Mike Evans",
+                    "jersey": "13",
+                    "position": "WR",
+                    "sr_id": "sr:player:830697",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "c5a8f0e1-b5ff-4018-b4da-3676ac12207e",
+                    "name": "SirVocea Dennis",
+                    "jersey": "8",
+                    "position": "LB",
+                    "sr_id": "sr:player:1850606",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "2df83b38-7b2b-4aea-91ee-bfc5974486a1",
+                    "name": "Carlton Davis",
+                    "jersey": "24",
+                    "position": "CB",
+                    "sr_id": "sr:player:1227004",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                },
+                {
+                    "id": "6ccf5140-f1c9-11ed-a984-a58c04943ad8",
+                    "name": "Christian Izien",
+                    "jersey": "29",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1436318",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "cabe57e5-4675-40cf-9090-58c63f823e70",
+                    "name": "Calijah Kancey",
+                    "jersey": "94",
+                    "position": "DL",
+                    "sr_id": "sr:player:1692025",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "30198d30-9769-4e10-ac86-b4c91d940802",
+                    "name": "Baker Mayfield",
+                    "jersey": "6",
+                    "position": "QB",
+                    "sr_id": "sr:player:1217750",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+            "name": "Falcons",
+            "market": "Atlanta",
+            "alias": "ATL",
+            "sr_id": "sr:competitor:4393",
+            "players": [
+                {
+                    "id": "60ef79af-d62b-4e4b-a1f9-1b0a0dfe0cad",
+                    "name": "Troy Andersen",
+                    "jersey": "44",
+                    "position": "LB",
+                    "sr_id": "sr:player:1246032",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "790ae305-a3ea-4a98-a13a-31dacadec04e",
+                    "name": "Jeff Okudah",
+                    "jersey": "1",
+                    "position": "CB",
+                    "sr_id": "sr:player:2040583",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "da85107c-365c-4d58-90ab-479d97d798b4",
+                    "name": "Cordarrelle Patterson",
+                    "jersey": "84",
+                    "position": "RB",
+                    "sr_id": "sr:player:829359",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Thigh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+            "name": "Jaguars",
+            "market": "Jacksonville",
+            "alias": "JAC",
+            "sr_id": "sr:competitor:4386",
+            "players": [
+                {
+                    "id": "078c2a41-ec84-4425-b64e-8d92cee16305",
+                    "name": "Antonio Johnson",
+                    "jersey": "26",
+                    "position": "SAF",
+                    "sr_id": "sr:player:2007669",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "9aac7466-6718-4c40-9431-e51a3bfa0ab0",
+                    "name": "Brandon Scherff",
+                    "jersey": "68",
+                    "position": "OL",
+                    "sr_id": "sr:player:834505",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "03be50ca-2498-4190-b772-7c47e351c4ab",
+                    "name": "Luke Fortner",
+                    "jersey": "79",
+                    "position": "OL",
+                    "sr_id": "sr:player:1191786",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "e21d11de-78f9-47a9-b69a-ae18207ab2c7",
+                    "name": "Tyler Lacy",
+                    "jersey": "93",
+                    "position": "DE",
+                    "sr_id": "sr:player:1435243",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+            "name": "Dolphins",
+            "market": "Miami",
+            "alias": "MIA",
+            "sr_id": "sr:competitor:4287",
+            "players": [
+                {
+                    "id": "0cb6209d-2397-4be2-9cb7-f990bfb67e69",
+                    "name": "Terron Armstead",
+                    "jersey": "72",
+                    "position": "T",
+                    "sr_id": "sr:player:833679",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Back",
+                            "secondary": "Ankle/Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "98166be9-2705-496d-ae1c-3bbcc2fe60bb",
+                    "name": "Elijah Campbell",
+                    "jersey": "22",
+                    "position": "DB",
+                    "sr_id": "sr:player:1205976",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "516da3c0-f016-11ed-a518-572ef5cb73b6",
+                    "name": "Julian Hill",
+                    "jersey": "89",
+                    "position": "TE",
+                    "sr_id": "sr:player:1515217",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "0ff9a975-669d-4851-a95d-ab28d9fc29c4",
+                    "name": "Jaylen Waddle",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:2197644",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Oblique"
+                        }
+                    ]
+                },
+                {
+                    "id": "a4ef921b-8767-4b4f-a651-7675c00f9af0",
+                    "name": "De'Von Achane",
+                    "jersey": "28",
+                    "position": "RB",
+                    "sr_id": "sr:player:2007651",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "e6bcb4f1-c2c8-4dd9-b826-af01182875f2",
+                    "name": "Xavien Howard",
+                    "jersey": "25",
+                    "position": "CB",
+                    "sr_id": "sr:player:987645",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Thumb"
+                        }
+                    ]
+                },
+                {
+                    "id": "f0c60c6e-513b-40df-9794-d555ed59202f",
+                    "name": "Brandon Jones",
+                    "jersey": "29",
+                    "position": "SAF",
+                    "sr_id": "sr:player:2040421",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "96d94c76-9563-460a-91e5-47b99f29587b",
+                    "name": "Connor Williams",
+                    "jersey": "58",
+                    "position": "OL",
+                    "sr_id": "sr:player:1225224",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "2e0122de-812b-44fa-8bf9-084695be95e3",
+                    "name": "Jaelan Phillips",
+                    "jersey": "15",
+                    "position": "LB",
+                    "sr_id": "sr:player:2198134",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "b040e601-ec40-4757-bf3d-71bf64ef99cf",
+                    "name": "Raheem Mostert",
+                    "jersey": "31",
+                    "position": "RB",
+                    "sr_id": "sr:player:855634",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+            "name": "Raiders",
+            "market": "Las Vegas",
+            "alias": "LV",
+            "sr_id": "sr:competitor:4390",
+            "players": [
+                {
+                    "id": "df94ce97-af26-4f12-be2d-14779270e670",
+                    "name": "Jermaine Eluemunor",
+                    "jersey": "72",
+                    "position": "OL",
+                    "sr_id": "sr:player:1130097",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "e7d6ae25-bf15-4660-8b37-c37716551de3",
+                    "name": "Davante Adams",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:831457",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "9ae2584a-40c1-4b30-be34-a9567659eacd",
+                    "name": "DeAndre Carter",
+                    "jersey": "3",
+                    "position": "WR",
+                    "sr_id": "sr:player:1002695",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "42de9d1d-0352-460b-9172-9452414fd7fd",
+                    "name": "Jimmy Garoppolo",
+                    "jersey": "10",
+                    "position": "QB",
+                    "sr_id": "sr:player:828285",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "5197def5-f444-4561-ad28-7aac10dc748e",
+                    "name": "Chandler Jones",
+                    "jersey": "55",
+                    "position": "DE",
+                    "sr_id": "sr:player:830679",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "73e194d1-a4b7-4de4-b1c2-3c24ef502918",
+                    "name": "Jakobi Meyers",
+                    "jersey": "16",
+                    "position": "WR",
+                    "sr_id": "sr:player:1209970",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "24c73eb0-7260-46cb-820d-7a64c71e499a",
+                    "name": "Jordan Meredith",
+                    "jersey": "61",
+                    "position": "G",
+                    "sr_id": "sr:player:2198600",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "c8f74b89-065c-4857-be4e-4fcf897a5bc0",
+                    "name": "Tre'von Moehrig",
+                    "jersey": "25",
+                    "position": "SAF",
+                    "sr_id": "sr:player:2197678",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Thumb"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+            "name": "Bears",
+            "market": "Chicago",
+            "alias": "CHI",
+            "sr_id": "sr:competitor:4391",
+            "players": [
+                {
+                    "id": "3b69032b-a321-4da8-9303-9d21a1970de6",
+                    "name": "Nate Davis",
+                    "jersey": "64",
+                    "position": "OL",
+                    "sr_id": "sr:player:1228036",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "9c21e9af-681c-41ef-9b00-fbc9e1668ed1",
+                    "name": "Marcedes Lewis",
+                    "jersey": "84",
+                    "position": "TE",
+                    "sr_id": "sr:player:829379",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-14T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "c218af10-ce17-11ec-bebb-4fec1e38b0e5",
+                    "name": "Josh Blackwell",
+                    "jersey": "39",
+                    "position": "DB",
+                    "sr_id": "sr:player:1268884",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "1817f16b-5ff3-4d64-8d7a-f64e02f5a033",
+                    "name": "Dylan Cole",
+                    "jersey": "55",
+                    "position": "LB",
+                    "sr_id": "sr:player:1130535",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+            "name": "Chiefs",
+            "market": "Kansas City",
+            "alias": "KC",
+            "sr_id": "sr:competitor:4422",
+            "players": [
+                {
+                    "id": "83ad043c-d1e6-45b3-9e06-3f148538db46",
+                    "name": "Nick Bolton",
+                    "jersey": "32",
+                    "position": "LB",
+                    "sr_id": "sr:player:2198068",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "8aa01565-4481-443a-9951-642c98ded113",
+                    "name": "Clyde Edwards-Helaire",
+                    "jersey": "25",
+                    "position": "RB",
+                    "sr_id": "sr:player:2040247",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "ef7b5ce8-a929-46be-b9f3-328752c6d125",
+                    "name": "Chris Jones",
+                    "jersey": "95",
+                    "position": "DT",
+                    "sr_id": "sr:player:987609",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "c3859e06-5f23-4302-a71b-04820a899d5f",
+                    "name": "Travis Kelce",
+                    "jersey": "87",
+                    "position": "TE",
+                    "sr_id": "sr:player:831509",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "92b059b3-6b1b-4db4-a535-ceba629176d1",
+                    "name": "L'Jarius Sneed",
+                    "jersey": "38",
+                    "position": "CB",
+                    "sr_id": "sr:player:2040181",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "4aae1781-1eec-48c0-b41f-e4fee61c3c32",
+                    "name": "Richie James",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:1210058",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "fd133ca5-a014-4f5d-9e2f-14882da45cc2",
+                    "name": "Nic Jones",
+                    "jersey": "31",
+                    "position": "CB",
+                    "sr_id": "sr:player:1858922",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hand"
+                        }
+                    ]
+                },
+                {
+                    "id": "b4af6462-3e3a-49d5-9d96-482ad9f3c0c8",
+                    "name": "Kadarius Toney",
+                    "jersey": "19",
+                    "position": "WR",
+                    "sr_id": "sr:player:2198078",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "632a8382-27d6-45ae-b3d2-a37157e09ab7",
+                    "name": "Tershawn Wharton",
+                    "jersey": "98",
+                    "position": "DT",
+                    "sr_id": "sr:player:2065131",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+            "name": "Cowboys",
+            "market": "Dallas",
+            "alias": "DAL",
+            "sr_id": "sr:competitor:4392",
+            "players": [
+                {
+                    "id": "49ee26a1-4c2a-4980-ad86-b9553ef220bd",
+                    "name": "Sam Williams",
+                    "jersey": "54",
+                    "position": "DE",
+                    "sr_id": "sr:player:1695823",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest",
+                            "secondary": "Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "5a001d28-b271-410a-8c91-3159a6096258",
+                    "name": "Zack Martin",
+                    "jersey": "70",
+                    "position": "G",
+                    "sr_id": "sr:player:855670",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "b6b954eb-4591-4b7a-86b9-a481f15fdd58",
+                    "name": "Brandin Cooks",
+                    "jersey": "3",
+                    "position": "WR",
+                    "sr_id": "sr:player:828495",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "23390ab5-2b55-4d8e-851c-01f9cf338ede",
+                    "name": "Tyler Smith",
+                    "jersey": "73",
+                    "position": "OL",
+                    "sr_id": "sr:player:1742207",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "c3f2ea91-98d6-4d37-b5bd-3c7ac07e5b24",
+                    "name": "Tyron Smith",
+                    "jersey": "77",
+                    "position": "T",
+                    "sr_id": "sr:player:829389",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "2e9ef3ac-eca5-4eb9-a41d-f404dfaae460",
+                    "name": "Donovan Wilson",
+                    "jersey": "6",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1192098",
+                    "injuries": [
+                        {
+                            "status": "Doubtful",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+            "name": "Packers",
+            "market": "Green Bay",
+            "alias": "GB",
+            "sr_id": "sr:competitor:4420",
+            "players": [
+                {
+                    "id": "cd141ff0-cc9e-11ec-952e-a10f2c98fc4d",
+                    "name": "Daniel Whelan",
+                    "jersey": "19",
+                    "position": "P",
+                    "sr_id": "sr:player:1240852",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Finger"
+                        }
+                    ]
+                },
+                {
+                    "id": "a750e7ca-12ab-4d7c-bc65-f58793c3ed16",
+                    "name": "David Bakhtiari",
+                    "jersey": "69",
+                    "position": "T",
+                    "sr_id": "sr:player:831461",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Rest",
+                            "secondary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f559fde-3a5f-4df6-99a2-cd1a4b103c68",
+                    "name": "Romeo Doubs",
+                    "jersey": "87",
+                    "position": "WR",
+                    "sr_id": "sr:player:1474132",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "99847f76-5bf2-4cbe-8573-9a477f7fb472",
+                    "name": "Rashan Gary",
+                    "jersey": "52",
+                    "position": "LB",
+                    "sr_id": "sr:player:1217548",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "b5d116d8-11d4-43b1-8f0b-9a3ba26648c9",
+                    "name": "Elgton Jenkins",
+                    "jersey": "74",
+                    "position": "OL",
+                    "sr_id": "sr:player:1203480",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "f7bc36e8-7fb8-4d91-8216-f6a3a669f069",
+                    "name": "Anthony Johnson Jr.",
+                    "jersey": "36",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1420491",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "27dd5b6e-ea65-4622-a6b4-460fd144407c",
+                    "name": "Aaron Jones Sr.",
+                    "jersey": "33",
+                    "position": "RB",
+                    "sr_id": "sr:player:1130041",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "f05149f9-c13f-4af8-858f-ad1e380961cd",
+                    "name": "Quay Walker",
+                    "jersey": "7",
+                    "position": "LB",
+                    "sr_id": "sr:player:1415213",
+                    "injuries": [
+                        {
+                            "status": "Unknown",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "47d97f44-b4aa-46d2-816c-5b5a1fe48d46",
+                    "name": "Christian Watson",
+                    "jersey": "9",
+                    "position": "WR",
+                    "sr_id": "sr:player:1249502",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+            "name": "Steelers",
+            "market": "Pittsburgh",
+            "alias": "PIT",
+            "sr_id": "sr:competitor:4345",
+            "players": [
+                {
+                    "id": "244c00c7-fe9a-4f4f-adff-1d5b9c8877e7",
+                    "name": "Diontae Johnson",
+                    "jersey": "18",
+                    "position": "WR",
+                    "sr_id": "sr:player:1221954",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "30487ab2-836d-4e4b-a46a-89e31b414374",
+                    "name": "Anthony McFarland",
+                    "jersey": "26",
+                    "position": "RB",
+                    "sr_id": "sr:player:1231358",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "a4e669b3-32f3-4762-8b01-df6ef8dd0e51",
+                    "name": "Chukwuma Okorafor",
+                    "jersey": "76",
+                    "position": "OL",
+                    "sr_id": "sr:player:1224896",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "70d87779-f25f-4dff-8c5d-82b818090c57",
+                    "name": "James Daniels",
+                    "jersey": "78",
+                    "position": "OL",
+                    "sr_id": "sr:player:1225878",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6",
+                    "name": "Pat Freiermuth",
+                    "jersey": "88",
+                    "position": "TE",
+                    "sr_id": "sr:player:2197750",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Chest"
+                        }
+                    ]
+                },
+                {
+                    "id": "915f567f-ca74-426a-8ed0-123c45f67baa",
+                    "name": "Larry Ogunjobi",
+                    "jersey": "99",
+                    "position": "DT",
+                    "sr_id": "sr:player:1129801",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "447db942-40e8-4bb3-9710-b12cfaaafb46",
+                    "name": "Isaac Seumalo",
+                    "jersey": "73",
+                    "position": "G",
+                    "sr_id": "sr:player:987679",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "018e8f25-54e5-44f1-967a-7ff237f1c52f",
+                    "name": "George Pickens",
+                    "jersey": "14",
+                    "position": "WR",
+                    "sr_id": "sr:player:1708565",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "33405046-04ee-4058-a950-d606f8c30852",
+            "name": "Vikings",
+            "market": "Minnesota",
+            "alias": "MIN",
+            "sr_id": "sr:competitor:4423",
+            "players": [
+                {
+                    "id": "acdd0b8b-d840-44ac-9dfa-05fe8baabe09",
+                    "name": "Garrett Bradbury",
+                    "jersey": "56",
+                    "position": "C",
+                    "sr_id": "sr:player:1208540",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Back"
+                        }
+                    ]
+                },
+                {
+                    "id": "584c0cd5-fe93-40e1-8155-9abcf06d79b0",
+                    "name": "Christian Darrisaw",
+                    "jersey": "71",
+                    "position": "T",
+                    "sr_id": "sr:player:2197924",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "9c2c9c29-516a-4e0f-8dcd-319291823370",
+                    "name": "Marcus Davenport",
+                    "jersey": "0",
+                    "position": "OLB",
+                    "sr_id": "sr:player:1230592",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+            "name": "Panthers",
+            "market": "Carolina",
+            "alias": "CAR",
+            "sr_id": "sr:competitor:4415",
+            "players": [
+                {
+                    "id": "c2a7bd8a-d141-423a-8810-0988a59ff0b4",
+                    "name": "DJ Chark Jr.",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:1218294",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "cbe71aae-2475-487f-a78d-c1d7f021c097",
+                    "name": "Taylor Moton",
+                    "jersey": "72",
+                    "position": "T",
+                    "sr_id": "sr:player:1129849",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Biceps"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+            "name": "Ravens",
+            "market": "Baltimore",
+            "alias": "BAL",
+            "sr_id": "sr:competitor:4413",
+            "players": [
+                {
+                    "id": "55fe8587-9190-4ad9-8517-fcb330341ed3",
+                    "name": "John Simpson",
+                    "jersey": "76",
+                    "position": "G",
+                    "sr_id": "sr:player:2040201",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "NIR - Personal"
+                        }
+                    ]
+                },
+                {
+                    "id": "0618f387-9b72-4270-8b8f-dec4cccc9e4a",
+                    "name": "Mark Andrews",
+                    "jersey": "89",
+                    "position": "TE",
+                    "sr_id": "sr:player:1219184",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Quad"
+                        }
+                    ]
+                },
+                {
+                    "id": "bf9749c6-6609-456e-a3eb-b8cab21dd76a",
+                    "name": "Marlon Humphrey",
+                    "jersey": "44",
+                    "position": "CB",
+                    "sr_id": "sr:player:1129543",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "b342192d-644a-48cc-9d86-94030ecceea4",
+                    "name": "Tyler Linderbaum",
+                    "jersey": "64",
+                    "position": "C",
+                    "sr_id": "sr:player:1434741",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "a792cbbf-d96a-48fc-a187-6f7f5b7dd214",
+                    "name": "Ronnie Stanley",
+                    "jersey": "79",
+                    "position": "T",
+                    "sr_id": "sr:player:986903",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "662bf69e-10eb-4c2e-970e-1a13f1c7fa07",
+                    "name": "Marcus Williams",
+                    "jersey": "32",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1129729",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Pectoral"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+            "name": "Jets",
+            "market": "New York",
+            "alias": "NYJ",
+            "sr_id": "sr:competitor:4427",
+            "players": [
+                {
+                    "id": "93d11276-45d2-4168-a9b7-df0cbf12dabb",
+                    "name": "Greg Zuerlein",
+                    "jersey": "9",
+                    "position": "K",
+                    "sr_id": "sr:player:827559",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "8639eb45-a9dd-4b3b-91f1-01319af3bdd0",
+                    "name": "Mekhi Becton",
+                    "jersey": "77",
+                    "position": "T",
+                    "sr_id": "sr:player:2040641",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "f26bd260-a1eb-42ab-8768-bc8ad24e4f9e",
+                    "name": "Duane Brown",
+                    "jersey": "76",
+                    "position": "T",
+                    "sr_id": "sr:player:828997",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "db1053d7-3343-43a3-9aab-8353f10f1221",
+                    "name": "Breece Hall",
+                    "jersey": "20",
+                    "position": "RB",
+                    "sr_id": "sr:player:1692915",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+            "name": "Patriots",
+            "market": "New England",
+            "alias": "NE",
+            "sr_id": "sr:competitor:4424",
+            "players": [
+                {
+                    "id": "173831a7-d33d-4d2a-8dd9-4e36182e23cc",
+                    "name": "Trent Brown",
+                    "jersey": "77",
+                    "position": "OL",
+                    "sr_id": "sr:player:835227",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "72caaff9-f52a-4f12-a592-983df19263e3",
+                    "name": "Sidy Sow",
+                    "jersey": "62",
+                    "position": "OL",
+                    "sr_id": "sr:player:1232520",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "94560629-fb01-43b5-b9ea-ca8372c18368",
+                    "name": "David Andrews",
+                    "jersey": "60",
+                    "position": "C",
+                    "sr_id": "sr:player:835543",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-14T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "9c054866-5e6c-460b-9af3-ebf91e7d0a3e",
+                    "name": "Kayshon Boutte",
+                    "jersey": "80",
+                    "position": "WR",
+                    "sr_id": "sr:player:2006993",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-14T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "3ee844af-9408-42d7-ba42-aaa2d5ccc673",
+                    "name": "Mike Onwenu",
+                    "jersey": "71",
+                    "position": "OL",
+                    "sr_id": "sr:player:2040487",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "e9ee9209-dd8f-4e4a-be3c-407756a2749c",
+                    "name": "DeVante Parker",
+                    "jersey": "1",
+                    "position": "WR",
+                    "sr_id": "sr:player:834525",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "8e176f01-5542-4b25-8e06-ce57042911d2",
+                    "name": "Cole Strange",
+                    "jersey": "69",
+                    "position": "OL",
+                    "sr_id": "sr:player:1182466",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "537c88d4-c403-43f4-94a1-fdccea0ee24a",
+                    "name": "Jonathan Jones",
+                    "jersey": "31",
+                    "position": "DB",
+                    "sr_id": "sr:player:989241",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+            "name": "Browns",
+            "market": "Cleveland",
+            "alias": "CLE",
+            "sr_id": "sr:competitor:4417",
+            "players": [
+                {
+                    "id": "0207678d-d682-4916-ba20-74a218d5b6b1",
+                    "name": "Joel Bitonio",
+                    "jersey": "75",
+                    "position": "G",
+                    "sr_id": "sr:player:831487",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "00f88be8-45f9-4237-b2b8-3271ec790d07",
+                    "name": "Amari Cooper",
+                    "jersey": "2",
+                    "position": "WR",
+                    "sr_id": "sr:player:834497",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "a85a0ba9-674c-4f37-a944-474fc6cdf557",
+                    "name": "Myles Garrett",
+                    "jersey": "95",
+                    "position": "DE",
+                    "sr_id": "sr:player:1129517",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "20d66704-9c12-467f-a6ca-9cf9dc00730c",
+                    "name": "Shelby Harris",
+                    "jersey": "93",
+                    "position": "DT",
+                    "sr_id": "sr:player:854776",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Achilles"
+                        }
+                    ]
+                },
+                {
+                    "id": "81b159d5-86ac-4130-a87d-dbd5e0b211b3",
+                    "name": "Maurice Hurst II",
+                    "jersey": "90",
+                    "position": "DT",
+                    "sr_id": "sr:player:1474848",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "5a99d26a-0c11-4705-99de-8c4960d6fbc9",
+                    "name": "Siaki Ika",
+                    "jersey": "62",
+                    "position": "DT",
+                    "sr_id": "sr:player:1694055",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "73ec5a10-dd68-448e-938f-25021cbc3004",
+                    "name": "Juan Thornhill",
+                    "jersey": "1",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1192226",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "14b52c32-e9f6-4b64-aa22-1d96bb20cf84",
+                    "name": "Anthony Walker Jr.",
+                    "jersey": "5",
+                    "position": "LB",
+                    "sr_id": "sr:player:1130079",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "543deccb-0e8d-42ac-b213-dfd458fc0602",
+                    "name": "Jedrick Wills Jr.",
+                    "jersey": "71",
+                    "position": "T",
+                    "sr_id": "sr:player:2040399",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-16T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+            "name": "Texans",
+            "market": "Houston",
+            "alias": "HOU",
+            "sr_id": "sr:competitor:4324",
+            "players": [
+                {
+                    "id": "7e91086f-9ca4-4bd9-a099-b88b2f37e6c6",
+                    "name": "C.J. Stroud",
+                    "jersey": "7",
+                    "position": "QB",
+                    "sr_id": "sr:player:2001139",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "fa4ae025-fd66-4752-94fa-63e22ae8abd4",
+                    "name": "Neville Hewitt",
+                    "jersey": "43",
+                    "position": "LB",
+                    "sr_id": "sr:player:855792",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                },
+                {
+                    "id": "7ec32a97-e677-487c-a000-74a26de95931",
+                    "name": "Jalen Pitre",
+                    "jersey": "5",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1233994",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Chest"
+                        }
+                    ]
+                },
+                {
+                    "id": "813c2073-8f69-4f6f-94a6-6819cd14b4f3",
+                    "name": "Laremy Tunsil",
+                    "jersey": "78",
+                    "position": "T",
+                    "sr_id": "sr:player:986915",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "1b8414b5-3db8-4e89-8bcc-7ac7f7d0b931",
+                    "name": "Jimmie Ward",
+                    "jersey": "1",
+                    "position": "SAF",
+                    "sr_id": "sr:player:829883",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                },
+                {
+                    "id": "d6969476-95dc-42e4-9cd1-a1e8ae6973ff",
+                    "name": "Grayland Arnold",
+                    "jersey": "25",
+                    "position": "SAF",
+                    "sr_id": "sr:player:1221010",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "17dfbad4-f4fc-4a65-a085-6cdcefe36879",
+                    "name": "Blake Cashman",
+                    "jersey": "53",
+                    "position": "LB",
+                    "sr_id": "sr:player:1769326",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "eb7f7d43-7837-400c-828c-bd5d609bca41",
+                    "name": "George Fant",
+                    "jersey": "77",
+                    "position": "T",
+                    "sr_id": "sr:player:1073968",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "2995df34-ee81-4320-be1e-1c497b83c927",
+                    "name": "John Metchie III",
+                    "jersey": "8",
+                    "position": "WR",
+                    "sr_id": "sr:player:1692769",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "9fc6e49f-c863-419d-9dca-8f0da3f3c9c7",
+                    "name": "Denzel Perryman",
+                    "jersey": "6",
+                    "position": "MLB",
+                    "sr_id": "sr:player:834649",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle",
+                            "secondary": "Wrist"
+                        }
+                    ]
+                },
+                {
+                    "id": "8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a",
+                    "name": "Dalton Schultz",
+                    "jersey": "86",
+                    "position": "TE",
+                    "sr_id": "sr:player:1191862",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Thigh"
+                        }
+                    ]
+                },
+                {
+                    "id": "618bedee-9259-4536-b0ff-fec98d2a20de",
+                    "name": "Robert Woods",
+                    "jersey": "2",
+                    "position": "WR",
+                    "sr_id": "sr:player:827487",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Rest "
+                        }
+                    ]
+                },
+                {
+                    "id": "42b57148-fc06-4aee-b40b-bb941271b5b7",
+                    "name": "Dare Ogunbowale",
+                    "jersey": "33",
+                    "position": "RB",
+                    "sr_id": "sr:player:1135413",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+            "name": "Rams",
+            "market": "Los Angeles",
+            "alias": "LA",
+            "sr_id": "sr:competitor:4387",
+            "players": [
+                {
+                    "id": "d24f72af-88e3-46d0-b132-1fe77e5c893b",
+                    "name": "Joe Noteboom",
+                    "jersey": "70",
+                    "position": "T",
+                    "sr_id": "sr:player:1220150",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "a80f1b08-3977-48b6-97e0-5991ca26bfae",
+                    "name": "Ahkello Witherspoon",
+                    "jersey": "44",
+                    "position": "DB",
+                    "sr_id": "sr:player:1129781",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-13T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+            "name": "49ers",
+            "market": "San Francisco",
+            "alias": "SF",
+            "sr_id": "sr:competitor:4389",
+            "players": [
+                {
+                    "id": "e6eb9d50-9231-44ff-89eb-7f7b996e042f",
+                    "name": "Dre Greenlaw",
+                    "jersey": "57",
+                    "position": "LB",
+                    "sr_id": "sr:player:1833944",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "b070601c-7985-4a1c-b71a-9f72bb5dbc59",
+                    "name": "Trent Williams",
+                    "jersey": "71",
+                    "position": "T",
+                    "sr_id": "sr:player:830955",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "NIR - Rest"
+                        }
+                    ]
+                },
+                {
+                    "id": "2ada91b0-036e-454f-83c3-6d939ff584a9",
+                    "name": "George Kittle",
+                    "jersey": "85",
+                    "position": "TE",
+                    "sr_id": "sr:player:1130029",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "75c1ed8d-4f05-43c1-b398-f212984b6b8b",
+                    "name": "Samuel Womack III",
+                    "jersey": "0",
+                    "position": "CB",
+                    "sr_id": "sr:player:1354974",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "f7ff7599-a175-4a0c-b887-3ae9e596fc64",
+                    "name": "Ray-Ray McCloud",
+                    "jersey": "3",
+                    "position": "WR",
+                    "sr_id": "sr:player:1218938",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Wrist"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+            "name": "Commanders",
+            "market": "Washington",
+            "alias": "WAS",
+            "sr_id": "sr:competitor:4432",
+            "players": [
+                {
+                    "id": "e52e1ff1-7a48-4b89-84c1-35841460ab0d",
+                    "name": "Quan Martin",
+                    "jersey": "20",
+                    "position": "DB",
+                    "sr_id": "sr:player:1436248",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Concussion"
+                        }
+                    ]
+                },
+                {
+                    "id": "66a21b6d-97e5-4732-8bb0-062145d6bbc6",
+                    "name": "Curtis Samuel",
+                    "jersey": "4",
+                    "position": "WR",
+                    "sr_id": "sr:player:1129833",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                },
+                {
+                    "id": "9947409c-4a34-45f5-99a1-aa6daa13c430",
+                    "name": "Chase Young",
+                    "jersey": "99",
+                    "position": "DE",
+                    "sr_id": "sr:player:2039949",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Neck"
+                        }
+                    ]
+                },
+                {
+                    "id": "6ffeb3fd-dd6f-4b03-95a9-da9908005415",
+                    "name": "Sam Cosmi",
+                    "jersey": "76",
+                    "position": "T",
+                    "sr_id": "sr:player:1270338",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "7e8c4641-2beb-4213-ba22-69fe0307005f",
+                    "name": "Terry McLaurin",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:1218752",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+            "name": "Bills",
+            "market": "Buffalo",
+            "alias": "BUF",
+            "sr_id": "sr:competitor:4376",
+            "players": [
+                {
+                    "id": "49c9f374-118a-4207-8030-dcdaf938dac5",
+                    "name": "Mitch Morse",
+                    "jersey": "60",
+                    "position": "C",
+                    "sr_id": "sr:player:834741",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Finger"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+            "name": "Broncos",
+            "market": "Denver",
+            "alias": "DEN",
+            "sr_id": "sr:competitor:4418",
+            "players": [
+                {
+                    "id": "b9e4a022-d15c-4cef-9879-170277f17207",
+                    "name": "Greg Dulcich",
+                    "jersey": "80",
+                    "position": "TE",
+                    "sr_id": "sr:player:1555599",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "490c15eb-accc-4441-be7d-c7114e1e42fc",
+                    "name": "Frank Clark",
+                    "jersey": "55",
+                    "position": "OLB",
+                    "sr_id": "sr:player:834679",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Hip"
+                        }
+                    ]
+                },
+                {
+                    "id": "eaaa4a61-c2a7-4926-8e9b-3ec71be2f991",
+                    "name": "Jerry Jeudy",
+                    "jersey": "10",
+                    "position": "WR",
+                    "sr_id": "sr:player:2040665",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Hamstring"
+                        }
+                    ]
+                },
+                {
+                    "id": "d2e2b313-6769-48c6-a217-d167f04068df",
+                    "name": "D.J. Jones",
+                    "jersey": "93",
+                    "position": "DT",
+                    "sr_id": "sr:player:1130003",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "8f79eaa3-df62-4214-a497-1e13970e6b82",
+                    "name": "Riley Moss",
+                    "jersey": "37",
+                    "position": "CB",
+                    "sr_id": "sr:player:1434845",
+                    "injuries": [
+                        {
+                            "status_date": "2023-09-15T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Abdomen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2024-12-31 15:40:33 UTC ended @ 2024-12-31 15:40:33 UTC"
+}

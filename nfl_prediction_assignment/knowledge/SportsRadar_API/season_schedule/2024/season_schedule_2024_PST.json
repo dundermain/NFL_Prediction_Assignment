@@ -1,0 +1,357 @@
+{
+    "id": "26a6a4e0-dfc9-11ee-8f7c-27de425212d4",
+    "year": 2024,
+    "type": "PST",
+    "name": "PST",
+    "weeks": [
+        {
+            "id": "1393b553-e599-46a6-9cbc-471873ad4561",
+            "sequence": 1,
+            "title": "1",
+            "games": [
+                {
+                    "id": "2adf422c-e1e2-4cc9-8fd6-7ae89e73080e",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-11T21:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "NBC/Peacock"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "c74313f1-23c4-43a0-aaac-35c3b8b14ea6",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-12T01:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "Peacock"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "82356cf4-56a3-4472-94a2-7774f33f0740",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-12T18:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "6b71f468-5099-48ab-8957-e64d90f09857",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-12T21:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "9a8e9530-ed68-4c1d-ba71-7e82ac643aae",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-13T01:15:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "NBC"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "01d418ca-1579-46c0-b4b7-318b60d4fdac",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-14T01:15:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Wild Card",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "ABC/ESPN"
+                    },
+                    "time_zones": {}
+                }
+            ]
+        },
+        {
+            "id": "028b7a40-21c6-4f9a-b7bc-610af264e2b6",
+            "sequence": 2,
+            "title": "2",
+            "games": [
+                {
+                    "id": "9e0aac39-b534-48ee-8a88-af0214ecf20d",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-18T21:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Divisional",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "4cee1421-117a-46ab-b458-c265a72fc946",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-19T01:15:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Divisional",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "aafd386c-94e0-4856-ac49-84a7fed3e7f6",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-19T20:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Divisional",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "c2523570-f40a-4438-8cb2-6ca5ec3af805",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-19T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "Divisional",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "time_zones": {}
+                }
+            ]
+        },
+        {
+            "id": "62604943-f68a-428f-9f5b-ea840a999c00",
+            "sequence": 3,
+            "title": "3",
+            "games": [
+                {
+                    "id": "a8ff18fc-11c8-4fcc-8343-2273d4d20489",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-26T20:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "NFC Championship",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "FOX"
+                    },
+                    "time_zones": {}
+                },
+                {
+                    "id": "3d05fcdb-d1f1-4de9-850d-6ef41b3f883d",
+                    "status": "scheduled",
+                    "scheduled": "2025-01-26T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "game_type": "playoff",
+                    "conference_game": true,
+                    "title": "AFC Championship",
+                    "home": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "away": {
+                        "id": "23ed0bf0-f058-11ee-9989-93cc4251593a",
+                        "name": "Team TBD",
+                        "alias": "TBD"
+                    },
+                    "broadcast": {
+                        "network": "CBS"
+                    },
+                    "time_zones": {}
+                }
+            ]
+        },
+        {
+            "id": "e33d8a00-91d7-4cb5-b5f3-51cdaadd7089",
+            "sequence": 4,
+            "title": "4",
+            "games": [
+                {
+                    "id": "ca9d8f84-8e7b-4ee7-a310-54c2e3ca4edc",
+                    "status": "scheduled",
+                    "scheduled": "2025-02-09T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "neutral_site": true,
+                    "game_type": "playoff",
+                    "conference_game": false,
+                    "title": "Super Bowl LIX",
+                    "parent_id": "f6c2b12d-966c-41a5-98a7-054620fba38b",
+                    "venue": {
+                        "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                        "name": "Caesars Superdome",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "USA",
+                        "zip": "70112",
+                        "address": "1500 Sugar Bowl Drive",
+                        "capacity": 73208,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:8195",
+                        "location": {
+                            "lat": "29.950928",
+                            "lng": "-90.080876"
+                        }
+                    },
+                    "home": {
+                        "name": "NFC Championship (win)",
+                        "alias": "NFC Championship (win)",
+                        "source": {
+                            "id": "a8ff18fc-11c8-4fcc-8343-2273d4d20489",
+                            "title": "NFC Championship",
+                            "status": "scheduled",
+                            "coverage": "full",
+                            "game_type": "playoff",
+                            "scheduled": "2025-01-26T20:00:00+00:00",
+                            "entry_mode": "LDE",
+                            "outcome": "win"
+                        }
+                    },
+                    "away": {
+                        "name": "AFC Championship (win)",
+                        "alias": "AFC Championship (win)",
+                        "source": {
+                            "id": "3d05fcdb-d1f1-4de9-850d-6ef41b3f883d",
+                            "title": "AFC Championship",
+                            "status": "scheduled",
+                            "coverage": "full",
+                            "game_type": "playoff",
+                            "scheduled": "2025-01-26T23:30:00+00:00",
+                            "entry_mode": "LDE",
+                            "outcome": "win"
+                        }
+                    },
+                    "broadcast": {
+                        "network": "FOX"
+                    },
+                    "time_zones": {
+                        "venue": "US/Central"
+                    }
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2024-12-31 15:54:35 UTC ended @ 2024-12-31 15:54:35 UTC"
+}

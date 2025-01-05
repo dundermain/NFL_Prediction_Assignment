@@ -1,0 +1,280 @@
+{
+    "season": {
+        "id": "736474f0-adc5-11ee-b174-6f0e0e094ae8",
+        "year": 2023,
+        "type": "PST",
+        "name": "PST"
+    },
+    "week": {
+        "id": "8ece04d3-ed37-4ac0-a66b-5c0a1fdf99f3",
+        "sequence": 4,
+        "title": "4"
+    },
+    "teams": [
+        {
+            "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+            "name": "49ers",
+            "market": "San Francisco",
+            "alias": "SF",
+            "sr_id": "sr:competitor:4389",
+            "players": [
+                {
+                    "id": "2ada91b0-036e-454f-83c3-6d939ff584a9",
+                    "name": "George Kittle",
+                    "jersey": "85",
+                    "position": "TE",
+                    "sr_id": "sr:player:1130029",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Toe"
+                        }
+                    ]
+                },
+                {
+                    "id": "ab9bd5b1-eaf9-4f2d-8acd-fbc143980b17",
+                    "name": "Oren Burks",
+                    "jersey": "48",
+                    "position": "LB",
+                    "sr_id": "sr:player:1181532",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Shoulder"
+                        }
+                    ]
+                },
+                {
+                    "id": "7da672ef-7d6f-4162-b3ee-7faa37b0ed95",
+                    "name": "Ambry Thomas",
+                    "jersey": "20",
+                    "position": "CB",
+                    "sr_id": "sr:player:2197844",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "acb7169f-3ffa-4386-9866-e06af6ed7fef",
+                    "name": "Arik Armstead",
+                    "jersey": "91",
+                    "position": "DL",
+                    "sr_id": "sr:player:834509",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee",
+                            "secondary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "d6b2b573-e7da-42ad-950a-cb0f21710e0d",
+                    "name": "Kalia Davis",
+                    "jersey": "93",
+                    "position": "DL",
+                    "sr_id": "sr:player:1231684",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+            "name": "Chiefs",
+            "market": "Kansas City",
+            "alias": "KC",
+            "sr_id": "sr:competitor:4422",
+            "players": [
+                {
+                    "id": "f77479d7-51a5-41f9-8924-69526dd078cd",
+                    "name": "Jerick McKinnon",
+                    "jersey": "1",
+                    "position": "RB",
+                    "sr_id": "sr:player:828897",
+                    "injuries": [
+                        {
+                            "status": "Questionable",
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Groin"
+                        }
+                    ]
+                },
+                {
+                    "id": "ef7b5ce8-a929-46be-b9f3-328752c6d125",
+                    "name": "Chris Jones",
+                    "jersey": "95",
+                    "position": "DT",
+                    "sr_id": "sr:player:987609",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Quad"
+                        }
+                    ]
+                },
+                {
+                    "id": "3a25c037-fa30-4740-b742-ec8e4f1a2a25",
+                    "name": "Isiah Pacheco",
+                    "jersey": "10",
+                    "position": "RB",
+                    "sr_id": "sr:player:1436298",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Toe",
+                            "secondary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "4ee0937c-1250-4456-93d4-2d6afa064d5a",
+                    "name": "Joe Thuney",
+                    "jersey": "62",
+                    "position": "G",
+                    "sr_id": "sr:player:1074042",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Did Not Participate In Practice"
+                            },
+                            "primary": "Pectoral"
+                        }
+                    ]
+                },
+                {
+                    "id": "1c8a4510-786c-4bc2-a9e9-e491b688206f",
+                    "name": "Skyy Moore",
+                    "jersey": "24",
+                    "position": "WR",
+                    "sr_id": "sr:player:1859714",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Knee"
+                        }
+                    ]
+                },
+                {
+                    "id": "92b059b3-6b1b-4db4-a535-ceba629176d1",
+                    "name": "L'Jarius Sneed",
+                    "jersey": "38",
+                    "position": "CB",
+                    "sr_id": "sr:player:2040181",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Calf"
+                        }
+                    ]
+                },
+                {
+                    "id": "7df12cd9-5890-4a9d-b78d-0987de2cd804",
+                    "name": "Prince Tega Wanogho",
+                    "jersey": "76",
+                    "position": "T",
+                    "sr_id": "sr:player:2040523",
+                    "injuries": [
+                        {
+                            "status": "Out",
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Quad"
+                        }
+                    ]
+                },
+                {
+                    "id": "4aae1781-1eec-48c0-b41f-e4fee61c3c32",
+                    "name": "Richie James",
+                    "jersey": "17",
+                    "position": "WR",
+                    "sr_id": "sr:player:1210058",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Foot"
+                        }
+                    ]
+                },
+                {
+                    "id": "cbd73c09-da07-48b0-a0d6-f248dfa631b6",
+                    "name": "Rashee Rice",
+                    "jersey": "4",
+                    "position": "WR",
+                    "sr_id": "sr:player:1699457",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Full Participation In Practice"
+                            },
+                            "primary": "Ankle"
+                        }
+                    ]
+                },
+                {
+                    "id": "8aa01565-4481-443a-9951-642c98ded113",
+                    "name": "Clyde Edwards-Helaire",
+                    "jersey": "25",
+                    "position": "RB",
+                    "sr_id": "sr:player:2040247",
+                    "injuries": [
+                        {
+                            "status_date": "2024-02-09T00:00:00+00:00",
+                            "practice": {
+                                "status": "Limited Participation In Practice"
+                            },
+                            "primary": "Illness"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2024-12-31 15:44:03 UTC ended @ 2024-12-31 15:44:03 UTC"
+}

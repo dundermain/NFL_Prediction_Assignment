@@ -1,0 +1,254 @@
+gameId,gameDate,gameTimeEastern,homeTeamAbbr,visitorTeamAbbr,week
+2018090600,09/06/2018,20:20:00,PhiLos Angeles Ramsdelphia Eagles,AtLos Angeles Ramsnta Falcons,1
+2018090901,09/09/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Pittsburgh Steelers ,1
+2018090902,09/09/2018,13:00:00,Indianapolis Colts,Cincinnati Bengals,1
+2018090903,09/09/2018,13:00:00,Miami Dolphins,Tennessee Titans,1
+2018090900,09/09/2018,13:00:00,Baltimore Ravens,Buffalo Bills,1
+2018090905,09/09/2018,13:00:00,New EngLos Angeles Ramsnd Patriots,Houston Texans,1
+2018090907,09/09/2018,13:00:00,New York Giants,Jacksonville Jaguars,1
+2018090906,09/09/2018,13:00:00,New Orleans Saints,Tampa Bay Buccaneers,1
+2018090909,09/09/2018,16:25:00,Arizona Carolina Panthersdinals,Washington Commanders,1
+2018090910,09/09/2018,16:25:00,Carolina Panthers,DalLos Angeles Ramss Cowboys,1
+2018090912,09/09/2018,20:20:00,Green Bay Packers,Chicago Bears,1
+2018091000,09/10/2018,19:10:00,Detroit Lions,New York Jets,1
+2018091001,09/10/2018,22:20:00,Oakland Raiders,Los Angeles Rams,1
+2018091300,09/13/2018,20:20:00,Cincinnati Bengals,Baltimore Ravens,2
+2018091602,09/16/2018,13:00:00,Green Bay Packers,Minnesota Vikings,2
+2018091603,09/16/2018,13:00:00,New Orleans Saints,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,2
+2018091604,09/16/2018,13:00:00,New York Jets,Miami Dolphins,2
+2018091601,09/16/2018,13:00:00,Buffalo Bills,Los Angeles Chargers,2
+2018091600,09/16/2018,13:00:00,AtLos Angeles Ramsnta Falcons,Carolina Panthers,2
+2018091605,09/16/2018,13:00:00,Pittsburgh Steelers ,Kansas City Chiefs,2
+2018091608,09/16/2018,13:00:00,Washington Commanders,Indianapolis Colts,2
+2018091607,09/16/2018,13:00:00,Tennessee Titans,Houston Texans,2
+2018091606,09/16/2018,13:00:00,Tampa Bay Buccaneers,PhiLos Angeles Ramsdelphia Eagles,2
+2018091610,09/16/2018,16:05:00,San Francisco 49ers,Detroit Lions,2
+2018091609,09/16/2018,16:05:00,Los Angeles Rams,Arizona Carolina Panthersdinals,2
+2018091611,09/16/2018,16:25:00,Denver Broncos,Oakland Raiders,2
+2018091612,09/16/2018,16:25:00,Jacksonville Jaguars,New EngLos Angeles Ramsnd Patriots,2
+2018091613,09/16/2018,20:20:00,DalLos Angeles Ramss Cowboys,New York Giants,2
+2018091700,09/17/2018,20:15:00,Chicago Bears,Seattle Seahawks,2
+2018092000,09/20/2018,20:20:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,New York Jets,3
+2018092302,09/23/2018,13:00:00,Carolina Panthers,Cincinnati Bengals,3
+2018092303,09/23/2018,13:00:00,Houston Texans,New York Giants,3
+2018092304,09/23/2018,13:00:00,Jacksonville Jaguars,Tennessee Titans,3
+2018092301,09/23/2018,13:00:00,Baltimore Ravens,Denver Broncos,3
+2018092300,09/23/2018,13:00:00,AtLos Angeles Ramsnta Falcons,New Orleans Saints,3
+2018092305,09/23/2018,13:00:00,Kansas City Chiefs,San Francisco 49ers,3
+2018092309,09/23/2018,13:00:00,Washington Commanders,Green Bay Packers,3
+2018092308,09/23/2018,13:00:00,PhiLos Angeles Ramsdelphia Eagles,Indianapolis Colts,3
+2018092306,09/23/2018,13:00:00,Miami Dolphins,Oakland Raiders,3
+2018092307,09/23/2018,13:00:00,Minnesota Vikings,Buffalo Bills,3
+2018092310,09/23/2018,16:05:00,Los Angeles Rams,Los Angeles Chargers,3
+2018092311,09/23/2018,16:25:00,Arizona Carolina Panthersdinals,Chicago Bears,3
+2018092312,09/23/2018,16:25:00,Seattle Seahawks,DalLos Angeles Ramss Cowboys,3
+2018092313,09/23/2018,20:20:00,Detroit Lions,New EngLos Angeles Ramsnd Patriots,3
+2018092400,09/24/2018,20:15:00,Tampa Bay Buccaneers,Pittsburgh Steelers ,3
+2018092700,09/27/2018,20:20:00,Los Angeles Rams,Minnesota Vikings,4
+2018093002,09/30/2018,13:00:00,DalLos Angeles Ramss Cowboys,Detroit Lions,4
+2018093003,09/30/2018,13:00:00,Green Bay Packers,Buffalo Bills,4
+2018093004,09/30/2018,13:00:00,Indianapolis Colts,Houston Texans,4
+2018093001,09/30/2018,13:00:00,Chicago Bears,Tampa Bay Buccaneers,4
+2018093000,09/30/2018,13:00:00,AtLos Angeles Ramsnta Falcons,Cincinnati Bengals,4
+2018093005,09/30/2018,13:00:00,Jacksonville Jaguars,New York Jets,4
+2018093007,09/30/2018,13:00:00,Tennessee Titans,PhiLos Angeles Ramsdelphia Eagles,4
+2018093006,09/30/2018,13:00:00,New EngLos Angeles Ramsnd Patriots,Miami Dolphins,4
+2018093008,09/30/2018,16:05:00,Arizona Carolina Panthersdinals,Seattle Seahawks,4
+2018093009,09/30/2018,16:05:00,Oakland Raiders,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,4
+2018093011,09/30/2018,16:25:00,New York Giants,New Orleans Saints,4
+2018093010,09/30/2018,16:25:00,Los Angeles Chargers,San Francisco 49ers,4
+2018093012,09/30/2018,20:20:00,Pittsburgh Steelers ,Baltimore Ravens,4
+2018100100,10/01/2018,20:15:00,Denver Broncos,Kansas City Chiefs,4
+2018100400,10/04/2018,20:20:00,New EngLos Angeles Ramsnd Patriots,Indianapolis Colts,5
+2018100701,10/07/2018,13:00:00,Carolina Panthers,New York Giants,5
+2018100700,10/07/2018,13:00:00,Buffalo Bills,Tennessee Titans,5
+2018100707,10/07/2018,13:00:00,Pittsburgh Steelers ,AtLos Angeles Ramsnta Falcons,5
+2018100706,10/07/2018,13:00:00,New York Jets,Denver Broncos,5
+2018100705,10/07/2018,13:00:00,Kansas City Chiefs,Jacksonville Jaguars,5
+2018100704,10/07/2018,13:00:00,Detroit Lions,Green Bay Packers,5
+2018100703,10/07/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Baltimore Ravens,5
+2018100702,10/07/2018,13:00:00,Cincinnati Bengals,Miami Dolphins,5
+2018100708,10/07/2018,16:05:00,Los Angeles Chargers,Oakland Raiders,5
+2018100711,10/07/2018,16:25:00,Seattle Seahawks,Los Angeles Rams,5
+2018100710,10/07/2018,16:25:00,San Francisco 49ers,Arizona Carolina Panthersdinals,5
+2018100709,10/07/2018,16:25:00,PhiLos Angeles Ramsdelphia Eagles,Minnesota Vikings,5
+2018100712,10/07/2018,20:20:00,Houston Texans,DalLos Angeles Ramss Cowboys,5
+2018100800,10/08/2018,20:15:00,New Orleans Saints,Washington Commanders,5
+2018101100,10/11/2018,20:20:00,New York Giants,PhiLos Angeles Ramsdelphia Eagles,6
+2018101403,10/14/2018,13:00:00,Houston Texans,Buffalo Bills,6
+2018101402,10/14/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Los Angeles Chargers,6
+2018101401,10/14/2018,13:00:00,Cincinnati Bengals,Pittsburgh Steelers ,6
+2018101400,10/14/2018,13:00:00,AtLos Angeles Ramsnta Falcons,Tampa Bay Buccaneers,6
+2018101404,10/14/2018,13:00:00,Miami Dolphins,Chicago Bears,6
+2018101408,10/14/2018,13:00:00,Washington Commanders,Carolina Panthers,6
+2018101407,10/14/2018,13:00:00,Oakland Raiders,Seattle Seahawks,6
+2018101406,10/14/2018,13:00:00,New York Jets,Indianapolis Colts,6
+2018101405,10/14/2018,13:00:00,Minnesota Vikings,Arizona Carolina Panthersdinals,6
+2018101409,10/14/2018,16:05:00,Denver Broncos,Los Angeles Rams,6
+2018101410,10/14/2018,16:25:00,DalLos Angeles Ramss Cowboys,Jacksonville Jaguars,6
+2018101411,10/14/2018,16:25:00,Tennessee Titans,Baltimore Ravens,6
+2018101412,10/14/2018,20:20:00,New EngLos Angeles Ramsnd Patriots,Kansas City Chiefs,6
+2018101500,10/15/2018,20:15:00,Green Bay Packers,San Francisco 49ers,6
+2018101800,10/18/2018,20:20:00,Arizona Carolina Panthersdinals,Denver Broncos,7
+2018102100,10/21/2018,9:30:00,Los Angeles Chargers,Tennessee Titans,7
+2018102103,10/21/2018,13:00:00,Indianapolis Colts,Buffalo Bills,7
+2018102107,10/21/2018,13:00:00,New York Jets,Minnesota Vikings,7
+2018102108,10/21/2018,13:00:00,PhiLos Angeles Ramsdelphia Eagles,Carolina Panthers,7
+2018102102,10/21/2018,13:00:00,Chicago Bears,New EngLos Angeles Ramsnd Patriots,7
+2018102104,10/21/2018,13:00:00,Jacksonville Jaguars,Houston Texans,7
+2018102105,10/21/2018,20:20:00,Kansas City Chiefs,Cincinnati Bengals,7
+2018102106,10/21/2018,13:00:00,Miami Dolphins,Detroit Lions,7
+2018102109,10/21/2018,13:00:00,Tampa Bay Buccaneers,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,7
+2018102101,10/21/2018,16:05:00,Baltimore Ravens,New Orleans Saints,7
+2018102110,10/21/2018,16:25:00,Washington Commanders,DalLos Angeles Ramss Cowboys,7
+2018102111,10/21/2018,16:25:00,San Francisco 49ers,Los Angeles Rams,7
+2018102200,10/22/2018,20:15:00,AtLos Angeles Ramsnta Falcons,New York Giants,7
+2018102500,10/25/2018,20:20:00,Houston Texans,Miami Dolphins,8
+2018102800,10/28/2018,9:30:00,Jacksonville Jaguars,PhiLos Angeles Ramsdelphia Eagles,8
+2018102805,10/28/2018,13:00:00,Kansas City Chiefs,Denver Broncos,8
+2018102807,10/28/2018,13:00:00,Pittsburgh Steelers ,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,8
+2018102806,10/28/2018,13:00:00,New York Giants,Washington Commanders,8
+2018102804,10/28/2018,13:00:00,Detroit Lions,Seattle Seahawks,8
+2018102803,10/28/2018,13:00:00,Cincinnati Bengals,Tampa Bay Buccaneers,8
+2018102802,10/28/2018,13:00:00,Chicago Bears,New York Jets,8
+2018102801,10/28/2018,13:00:00,Carolina Panthers,Baltimore Ravens,8
+2018102808,10/28/2018,16:05:00,Oakland Raiders,Indianapolis Colts,8
+2018102809,10/28/2018,16:25:00,Arizona Carolina Panthersdinals,San Francisco 49ers,8
+2018102810,10/28/2018,16:25:00,Los Angeles Rams,Green Bay Packers,8
+2018102811,10/28/2018,20:20:00,Minnesota Vikings,New Orleans Saints,8
+2018102900,10/29/2018,20:15:00,Buffalo Bills,New EngLos Angeles Ramsnd Patriots,8
+2018110100,11/01/2018,20:20:00,San Francisco 49ers,Oakland Raiders,9
+2018110401,11/04/2018,13:00:00,Buffalo Bills,Chicago Bears,9
+2018110402,11/04/2018,13:00:00,Carolina Panthers,Tampa Bay Buccaneers,9
+2018110403,11/04/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Kansas City Chiefs,9
+2018110404,11/04/2018,13:00:00,Miami Dolphins,New York Jets,9
+2018110400,11/04/2018,13:00:00,Baltimore Ravens,Pittsburgh Steelers ,9
+2018110405,11/04/2018,13:00:00,Minnesota Vikings,Detroit Lions,9
+2018110406,11/04/2018,13:00:00,Washington Commanders,AtLos Angeles Ramsnta Falcons,9
+2018110407,11/04/2018,16:05:00,Denver Broncos,Houston Texans,9
+2018110408,11/04/2018,16:05:00,Seattle Seahawks,Los Angeles Chargers,9
+2018110409,11/04/2018,16:25:00,New Orleans Saints,Los Angeles Rams,9
+2018110410,11/04/2018,20:20:00,New EngLos Angeles Ramsnd Patriots,Green Bay Packers,9
+2018110500,11/05/2018,20:15:00,DalLos Angeles Ramss Cowboys,Tennessee Titans,9
+2018110800,11/08/2018,20:20:00,Pittsburgh Steelers ,Carolina Panthers,10
+2018111100,11/11/2018,13:00:00,Chicago Bears,Detroit Lions,10
+2018111101,11/11/2018,13:00:00,Cincinnati Bengals,New Orleans Saints,10
+2018111102,11/11/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,AtLos Angeles Ramsnta Falcons,10
+2018111103,11/11/2018,16:25:00,Green Bay Packers,Miami Dolphins,10
+2018111104,11/11/2018,13:00:00,Indianapolis Colts,Jacksonville Jaguars,10
+2018111105,11/11/2018,13:00:00,Kansas City Chiefs,Arizona Carolina Panthersdinals,10
+2018111106,11/11/2018,13:00:00,New York Jets,Buffalo Bills,10
+2018111108,11/11/2018,13:00:00,Tennessee Titans,New EngLos Angeles Ramsnd Patriots,10
+2018111107,11/11/2018,13:00:00,Tampa Bay Buccaneers,Washington Commanders,10
+2018111109,11/11/2018,16:05:00,Oakland Raiders,Los Angeles Chargers,10
+2018111110,11/11/2018,16:25:00,Los Angeles Rams,Seattle Seahawks,10
+2018111111,11/11/2018,20:20:00,PhiLos Angeles Ramsdelphia Eagles,DalLos Angeles Ramss Cowboys,10
+2018111200,11/12/2018,20:15:00,San Francisco 49ers,New York Giants,10
+2018111500,11/15/2018,20:20:00,Seattle Seahawks,Green Bay Packers,11
+2018111800,11/18/2018,13:00:00,AtLos Angeles Ramsnta Falcons,DalLos Angeles Ramss Cowboys,11
+2018111801,11/18/2018,13:00:00,Baltimore Ravens,Cincinnati Bengals,11
+2018111802,11/18/2018,20:20:00,Chicago Bears,Minnesota Vikings,11
+2018111803,11/18/2018,13:00:00,Detroit Lions,Carolina Panthers,11
+2018111804,11/18/2018,13:00:00,Indianapolis Colts,Tennessee Titans,11
+2018111805,11/18/2018,13:00:00,New York Giants,Tampa Bay Buccaneers,11
+2018111806,11/18/2018,13:00:00,Washington Commanders,Houston Texans,11
+2018111809,11/18/2018,16:25:00,New Orleans Saints,PhiLos Angeles Ramsdelphia Eagles,11
+2018111808,11/18/2018,16:05:00,Los Angeles Chargers,Denver Broncos,11
+2018111807,11/18/2018,16:05:00,Arizona Carolina Panthersdinals,Oakland Raiders,11
+2018111810,11/18/2018,13:00:00,Jacksonville Jaguars,Pittsburgh Steelers ,11
+2018111900,11/19/2018,20:15:00,Los Angeles Rams,Kansas City Chiefs,11
+2018112200,11/22/2018,12:30:00,Detroit Lions,Chicago Bears,12
+2018112201,11/22/2018,16:30:00,DalLos Angeles Ramss Cowboys,Washington Commanders,12
+2018112202,11/22/2018,20:20:00,New Orleans Saints,AtLos Angeles Ramsnta Falcons,12
+2018112501,11/25/2018,13:00:00,Buffalo Bills,Jacksonville Jaguars,12
+2018112502,11/25/2018,13:00:00,Carolina Panthers,Seattle Seahawks,12
+2018112503,11/25/2018,13:00:00,Cincinnati Bengals,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,12
+2018112504,11/25/2018,16:25:00,Indianapolis Colts,Miami Dolphins,12
+2018112500,11/25/2018,13:00:00,Baltimore Ravens,Oakland Raiders,12
+2018112505,11/25/2018,13:00:00,New York Jets,New EngLos Angeles Ramsnd Patriots,12
+2018112507,11/25/2018,13:00:00,Tampa Bay Buccaneers,San Francisco 49ers,12
+2018112506,11/25/2018,13:00:00,PhiLos Angeles Ramsdelphia Eagles,New York Giants,12
+2018112508,11/25/2018,16:05:00,Los Angeles Chargers,Arizona Carolina Panthersdinals,12
+2018112509,11/25/2018,16:25:00,Denver Broncos,Pittsburgh Steelers ,12
+2018112510,11/25/2018,20:20:00,Minnesota Vikings,Green Bay Packers,12
+2018112600,11/26/2018,20:15:00,Houston Texans,Tennessee Titans,12
+2018112900,11/29/2018,20:20:00,DalLos Angeles Ramss Cowboys,New Orleans Saints,13
+2018120200,12/02/2018,13:00:00,AtLos Angeles Ramsnta Falcons,Baltimore Ravens,13
+2018120201,12/02/2018,13:00:00,Cincinnati Bengals,Denver Broncos,13
+2018120209,12/02/2018,13:00:00,Tampa Bay Buccaneers,Carolina Panthers,13
+2018120208,12/02/2018,20:20:00,Pittsburgh Steelers ,Los Angeles Chargers,13
+2018120207,12/02/2018,13:00:00,New York Giants,Chicago Bears,13
+2018120206,12/02/2018,13:00:00,Miami Dolphins,Buffalo Bills,13
+2018120202,12/02/2018,13:00:00,Detroit Lions,Los Angeles Rams,13
+2018120203,12/02/2018,13:00:00,Green Bay Packers,Arizona Carolina Panthersdinals,13
+2018120204,12/02/2018,13:00:00,Houston Texans,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,13
+2018120205,12/02/2018,13:00:00,Jacksonville Jaguars,Indianapolis Colts,13
+2018120211,12/02/2018,16:05:00,Tennessee Titans,New York Jets,13
+2018120210,12/02/2018,16:05:00,Oakland Raiders,Kansas City Chiefs,13
+2018120212,12/02/2018,16:25:00,New EngLos Angeles Ramsnd Patriots,Minnesota Vikings,13
+2018120213,12/02/2018,16:25:00,Seattle Seahawks,San Francisco 49ers,13
+2018120300,12/03/2018,20:15:00,PhiLos Angeles Ramsdelphia Eagles,Washington Commanders,13
+2018120600,12/06/2018,20:20:00,Tennessee Titans,Jacksonville Jaguars,14
+2018120900,12/09/2018,13:00:00,Buffalo Bills,New York Jets,14
+2018120901,12/09/2018,20:20:00,Chicago Bears,Los Angeles Rams,14
+2018120908,12/09/2018,13:00:00,Washington Commanders,New York Giants,14
+2018120907,12/09/2018,13:00:00,Tampa Bay Buccaneers,New Orleans Saints,14
+2018120906,12/09/2018,13:00:00,Miami Dolphins,New EngLos Angeles Ramsnd Patriots,14
+2018120905,12/09/2018,13:00:00,Kansas City Chiefs,Baltimore Ravens,14
+2018120904,12/09/2018,13:00:00,Houston Texans,Indianapolis Colts,14
+2018120902,12/09/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Carolina Panthers,14
+2018120903,12/09/2018,13:00:00,Green Bay Packers,AtLos Angeles Ramsnta Falcons,14
+2018120910,12/09/2018,16:05:00,San Francisco 49ers,Denver Broncos,14
+2018120909,12/09/2018,16:05:00,Los Angeles Chargers,Cincinnati Bengals,14
+2018120911,12/09/2018,16:25:00,Arizona Carolina Panthersdinals,Detroit Lions,14
+2018120912,12/09/2018,16:25:00,DalLos Angeles Ramss Cowboys,PhiLos Angeles Ramsdelphia Eagles,14
+2018120913,12/09/2018,16:25:00,Oakland Raiders,Pittsburgh Steelers ,14
+2018121000,12/10/2018,20:15:00,Seattle Seahawks,Minnesota Vikings,14
+2018121300,12/13/2018,20:20:00,Kansas City Chiefs,Los Angeles Chargers,15
+2018121500,12/15/2018,16:30:00,New York Jets,Houston Texans,15
+2018121501,12/15/2018,20:20:00,Denver Broncos,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,15
+2018121602,12/16/2018,13:00:00,Buffalo Bills,Detroit Lions,15
+2018121603,12/16/2018,13:00:00,Chicago Bears,Green Bay Packers,15
+2018121604,12/16/2018,13:00:00,Cincinnati Bengals,Oakland Raiders,15
+2018121601,12/16/2018,13:00:00,Baltimore Ravens,Tampa Bay Buccaneers,15
+2018121600,12/16/2018,13:00:00,AtLos Angeles Ramsnta Falcons,Arizona Carolina Panthersdinals,15
+2018121605,12/16/2018,13:00:00,Indianapolis Colts,DalLos Angeles Ramss Cowboys,15
+2018121608,12/16/2018,13:00:00,New York Giants,Tennessee Titans,15
+2018121607,12/16/2018,13:00:00,Minnesota Vikings,Miami Dolphins,15
+2018121606,12/16/2018,13:00:00,Jacksonville Jaguars,Washington Commanders,15
+2018121609,12/16/2018,16:05:00,San Francisco 49ers,Seattle Seahawks,15
+2018121610,12/16/2018,16:25:00,Pittsburgh Steelers ,New EngLos Angeles Ramsnd Patriots,15
+2018121611,12/16/2018,20:20:00,Los Angeles Rams,PhiLos Angeles Ramsdelphia Eagles,15
+2018121700,12/17/2018,20:15:00,Carolina Panthers,New Orleans Saints,15
+2018122300,12/23/2018,13:00:00,Indianapolis Colts,New York Giants,16
+2018122310,12/23/2018,13:00:00,PhiLos Angeles Ramsdelphia Eagles,Houston Texans,16
+2018122309,12/23/2018,13:00:00,New York Jets,Green Bay Packers,16
+2018122308,12/23/2018,13:00:00,New EngLos Angeles Ramsnd Patriots,Buffalo Bills,16
+2018122307,12/23/2018,13:00:00,Detroit Lions,Minnesota Vikings,16
+2018122306,12/23/2018,13:00:00,DalLos Angeles Ramss Cowboys,Tampa Bay Buccaneers,16
+2018122302,12/23/2018,13:00:00,Miami Dolphins,Jacksonville Jaguars,16
+2018122304,12/23/2018,13:00:00,Carolina Panthers,AtLos Angeles Ramsnta Falcons,16
+2018122305,12/23/2018,13:00:00,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,Cincinnati Bengals,16
+2018122312,12/23/2018,16:05:00,San Francisco 49ers,Chicago Bears,16
+2018122311,12/23/2018,16:05:00,Arizona Carolina Panthersdinals,Los Angeles Rams,16
+2018122313,12/23/2018,16:25:00,New Orleans Saints,Pittsburgh Steelers ,16
+2018122314,12/23/2018,20:20:00,Seattle Seahawks,Kansas City Chiefs,16
+2018122400,12/24/2018,20:15:00,Oakland Raiders,Denver Broncos,16
+2018123001,12/30/2018,13:00:00,Buffalo Bills,Miami Dolphins,17
+2018123002,12/30/2018,13:00:00,Green Bay Packers,Detroit Lions,17
+2018123003,12/30/2018,13:00:00,Houston Texans,Jacksonville Jaguars,17
+2018123004,12/30/2018,16:25:00,Kansas City Chiefs,Oakland Raiders,17
+2018123005,12/30/2018,16:25:00,Minnesota Vikings,Chicago Bears,17
+2018123006,12/30/2018,13:00:00,New EngLos Angeles Ramsnd Patriots,New York Jets,17
+2018123007,12/30/2018,13:00:00,New Orleans Saints,Carolina Panthers,17
+2018123008,12/30/2018,13:00:00,New York Giants,DalLos Angeles Ramss Cowboys,17
+2018123009,12/30/2018,16:25:00,Pittsburgh Steelers ,Cincinnati Bengals,17
+2018123010,12/30/2018,13:00:00,Tampa Bay Buccaneers,AtLos Angeles Ramsnta Falcons,17
+2018123011,12/30/2018,20:20:00,Tennessee Titans,Indianapolis Colts,17
+2018123012,12/30/2018,16:25:00,Washington Commanders,PhiLos Angeles Ramsdelphia Eagles,17
+2018123000,12/30/2018,16:25:00,Baltimore Ravens,CleveLos Angeles Ramsnd BrownsveLos Angeles Ramsnd Browns,17
+2018123013,12/30/2018,16:25:00,Denver Broncos,Los Angeles Chargers,17
+2018123015,12/30/2018,16:25:00,Seattle Seahawks,Arizona Carolina Panthersdinals,17
+2018123014,12/30/2018,16:25:00,Los Angeles Rams,San Francisco 49ers,17
+2018122200,12/22/2018,16:30:00,Tennessee Titans,Washington Commanders,16
+2018122201,12/22/2018,20:20:00,Los Angeles Chargers,Baltimore Ravens,16

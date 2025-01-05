@@ -1,0 +1,15 @@
+{
+    "season": {
+        "id": "26a608a0-dfc9-11ee-8f7c-27de425212d4",
+        "year": 2024,
+        "type": "PRE",
+        "name": "PRE"
+    },
+    "week": {
+        "id": "269eb764-28a3-4f87-8c30-4af3f705f8d4",
+        "sequence": 1,
+        "title": "1"
+    },
+    "teams": [],
+    "_comment": "Generation started @ 2024-12-31 15:23:19 UTC ended @ 2024-12-31 15:23:19 UTC"
+}

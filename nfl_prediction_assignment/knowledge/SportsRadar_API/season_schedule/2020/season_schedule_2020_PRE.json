@@ -1,0 +1,2655 @@
+{
+    "id": "3d403bef-a805-43fd-b8c9-bced616ffe18",
+    "year": 2020,
+    "type": "PRE",
+    "name": "PRE",
+    "weeks": [
+        {
+            "id": "94087559-a998-497a-a4ca-9485f634bd60",
+            "sequence": 0,
+            "title": "0",
+            "games": [
+                {
+                    "id": "91f80e3f-3f33-46b7-ae42-85e0c7a3f708",
+                    "status": "cancelled",
+                    "reference": "58424",
+                    "number": 1,
+                    "scheduled": "2020-08-07T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980527",
+                    "neutral_site": true,
+                    "title": "Hall of Fame Game",
+                    "venue": {
+                        "id": "de94507b-cb7b-4684-a0ff-fad0131847e5",
+                        "name": "Tom Benson Hall of Fame Stadium",
+                        "city": "Canton",
+                        "state": "OH",
+                        "country": "USA",
+                        "zip": "44708",
+                        "address": "2121 George Halas Drive NW",
+                        "capacity": 22375,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:20369"
+                    },
+                    "home": {
+                        "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                        "name": "Dallas Cowboys",
+                        "alias": "DAL",
+                        "sr_id": "sr:competitor:4392"
+                    },
+                    "away": {
+                        "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                        "name": "Pittsburgh Steelers",
+                        "alias": "PIT",
+                        "sr_id": "sr:competitor:4345"
+                    },
+                    "broadcast": {
+                        "network": "NBC"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "4a7b9208-f121-4e2f-a925-17905b9e1018",
+            "sequence": 1,
+            "title": "1",
+            "games": [
+                {
+                    "id": "7d1d6820-8952-482d-a514-0d37967b6e1d",
+                    "status": "cancelled",
+                    "reference": "58425",
+                    "number": 2,
+                    "scheduled": "2020-08-13T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980543",
+                    "venue": {
+                        "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+                        "name": "Lucas Oil Stadium",
+                        "city": "Indianapolis",
+                        "state": "IN",
+                        "country": "USA",
+                        "zip": "46225",
+                        "address": "500 South Capitol Avenue",
+                        "capacity": 67000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:8185",
+                        "location": {
+                            "lat": "39.760008",
+                            "lng": "-86.163906"
+                        }
+                    },
+                    "home": {
+                        "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                        "name": "Indianapolis Colts",
+                        "alias": "IND",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4421"
+                    },
+                    "away": {
+                        "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                        "name": "Philadelphia Eagles",
+                        "alias": "PHI",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4428"
+                    }
+                },
+                {
+                    "id": "05681d25-dcd3-4df1-800b-3e5f6ddb78a2",
+                    "status": "cancelled",
+                    "reference": "58429",
+                    "number": 6,
+                    "scheduled": "2020-08-13T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980545",
+                    "venue": {
+                        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                        "name": "MetLife Stadium",
+                        "city": "East Rutherford",
+                        "state": "NJ",
+                        "country": "USA",
+                        "zip": "07073",
+                        "address": "One MetLife Stadium Drive",
+                        "capacity": 82500,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1981",
+                        "location": {
+                            "lat": "40.813611",
+                            "lng": "-74.074444"
+                        }
+                    },
+                    "home": {
+                        "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                        "name": "New York Jets",
+                        "alias": "NYJ",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4427"
+                    },
+                    "away": {
+                        "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                        "name": "New York Giants",
+                        "alias": "NYG",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4426"
+                    }
+                },
+                {
+                    "id": "11dc18ef-080c-44a5-abfb-848c7ca90fe3",
+                    "status": "cancelled",
+                    "reference": "58428",
+                    "number": 5,
+                    "scheduled": "2020-08-13T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980587",
+                    "venue": {
+                        "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                        "name": "Gillette Stadium",
+                        "city": "Foxborough",
+                        "state": "MA",
+                        "country": "USA",
+                        "zip": "02035",
+                        "address": "One Patriot Place",
+                        "capacity": 66829,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2379",
+                        "location": {
+                            "lat": "42.090944",
+                            "lng": "-71.264344"
+                        }
+                    },
+                    "home": {
+                        "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                        "name": "New England Patriots",
+                        "alias": "NE",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4424"
+                    },
+                    "away": {
+                        "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                        "name": "Detroit Lions",
+                        "alias": "DET",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4419"
+                    }
+                },
+                {
+                    "id": "abdd1d0b-b6ee-4e84-9502-9eea52d075d3",
+                    "status": "cancelled",
+                    "reference": "58427",
+                    "number": 4,
+                    "scheduled": "2020-08-13T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980567",
+                    "venue": {
+                        "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+                        "name": "Bank of America Stadium",
+                        "city": "Charlotte",
+                        "state": "NC",
+                        "country": "USA",
+                        "zip": "28202",
+                        "address": "800 South Mint Street",
+                        "capacity": 74867,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8173",
+                        "location": {
+                            "lat": "35.225937",
+                            "lng": "-80.853133"
+                        }
+                    },
+                    "home": {
+                        "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                        "name": "Carolina Panthers",
+                        "alias": "CAR",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4415"
+                    },
+                    "away": {
+                        "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                        "name": "Jacksonville Jaguars",
+                        "alias": "JAC",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4386"
+                    }
+                },
+                {
+                    "id": "d7ca3437-5b0d-4621-a486-ab693fc9d0b4",
+                    "status": "cancelled",
+                    "reference": "58426",
+                    "number": 3,
+                    "scheduled": "2020-08-14T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980507",
+                    "venue": {
+                        "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                        "name": "Lumen Field",
+                        "city": "Seattle",
+                        "state": "WA",
+                        "country": "USA",
+                        "zip": "98134",
+                        "address": "800 Occidental Avenue South",
+                        "capacity": 68740,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2291",
+                        "location": {
+                            "lat": "47.595165",
+                            "lng": "-122.331650"
+                        }
+                    },
+                    "home": {
+                        "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                        "name": "Seattle Seahawks",
+                        "alias": "SEA",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4430"
+                    },
+                    "away": {
+                        "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+                        "name": "Las Vegas Raiders",
+                        "alias": "LV",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4390"
+                    }
+                },
+                {
+                    "id": "77a2c14b-9117-4bce-9a98-b8b0ba868134",
+                    "status": "cancelled",
+                    "reference": "58430",
+                    "number": 7,
+                    "scheduled": "2020-08-14T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980581",
+                    "venue": {
+                        "id": "1f2d393b-2291-4835-a412-0714966ea245",
+                        "name": "Mercedes-Benz Stadium",
+                        "city": "Atlanta",
+                        "state": "GA",
+                        "country": "USA",
+                        "zip": "30313",
+                        "address": "441 Martin Luther King Jr Drive NW",
+                        "capacity": 71000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:20343",
+                        "location": {
+                            "lat": "33.757368",
+                            "lng": "-84.401008"
+                        }
+                    },
+                    "home": {
+                        "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                        "name": "Atlanta Falcons",
+                        "alias": "ATL",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4393"
+                    },
+                    "away": {
+                        "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                        "name": "Miami Dolphins",
+                        "alias": "MIA",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4287"
+                    }
+                },
+                {
+                    "id": "12886f47-ff59-43ca-8d0c-cc843f8a8cf1",
+                    "status": "cancelled",
+                    "reference": "58433",
+                    "number": 10,
+                    "scheduled": "2020-08-14T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980471",
+                    "venue": {
+                        "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+                        "name": "M&T Bank Stadium",
+                        "city": "Baltimore",
+                        "state": "MD",
+                        "country": "USA",
+                        "zip": "21230",
+                        "address": "1101 Russell Street",
+                        "capacity": 71008,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8169",
+                        "location": {
+                            "lat": "39.277995",
+                            "lng": "-76.622592"
+                        }
+                    },
+                    "home": {
+                        "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                        "name": "Baltimore Ravens",
+                        "alias": "BAL",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4413"
+                    },
+                    "away": {
+                        "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                        "name": "Buffalo Bills",
+                        "alias": "BUF",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4376"
+                    }
+                },
+                {
+                    "id": "80593bfc-2de8-480f-ac8f-35951115daeb",
+                    "status": "cancelled",
+                    "reference": "58434",
+                    "number": 11,
+                    "scheduled": "2020-08-14T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980531",
+                    "venue": {
+                        "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                        "name": "Acrisure Stadium",
+                        "city": "Pittsburgh",
+                        "state": "PA",
+                        "country": "USA",
+                        "zip": "15212",
+                        "address": "100 Art Rooney Avenue",
+                        "capacity": 68400,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8197",
+                        "location": {
+                            "lat": "40.446653",
+                            "lng": "-80.015844"
+                        }
+                    },
+                    "home": {
+                        "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                        "name": "Pittsburgh Steelers",
+                        "alias": "PIT",
+                        "sr_id": "sr:competitor:4345"
+                    },
+                    "away": {
+                        "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                        "name": "Tampa Bay Buccaneers",
+                        "alias": "TB",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4388"
+                    }
+                },
+                {
+                    "id": "c8ee3e48-6a57-40f2-b275-811dd76c8c8b",
+                    "status": "cancelled",
+                    "reference": "58432",
+                    "number": 9,
+                    "scheduled": "2020-08-15T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980505",
+                    "venue": {
+                        "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+                        "name": "U.S. Bank Stadium",
+                        "city": "Minneapolis",
+                        "state": "MN",
+                        "country": "USA",
+                        "zip": "55415",
+                        "address": "900 S 5th Street",
+                        "capacity": 66655,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:18423",
+                        "location": {
+                            "lat": "44.973686",
+                            "lng": "-93.257458"
+                        }
+                    },
+                    "home": {
+                        "id": "33405046-04ee-4058-a950-d606f8c30852",
+                        "name": "Minnesota Vikings",
+                        "alias": "MIN",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4423"
+                    },
+                    "away": {
+                        "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                        "name": "Houston Texans",
+                        "alias": "HOU",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4324"
+                    }
+                },
+                {
+                    "id": "f6526609-b600-4892-a515-0c918145fedb",
+                    "status": "cancelled",
+                    "reference": "58431",
+                    "number": 8,
+                    "scheduled": "2020-08-15T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980591",
+                    "venue": {
+                        "id": "790c1f04-73c6-4f6f-8b1e-78a62260be90",
+                        "name": "SoFi Stadium",
+                        "city": "Inglewood",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "90301",
+                        "address": "1000 S Prairie Ave",
+                        "capacity": 70240,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:52183",
+                        "location": {
+                            "lat": "33.953536",
+                            "lng": "-118.338734"
+                        }
+                    },
+                    "home": {
+                        "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                        "name": "Los Angeles Rams",
+                        "alias": "LA",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4387"
+                    },
+                    "away": {
+                        "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                        "name": "New Orleans Saints",
+                        "alias": "NO",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4425"
+                    }
+                },
+                {
+                    "id": "78f7dd78-0e92-4159-b73d-1d11088e2569",
+                    "status": "cancelled",
+                    "reference": "58435",
+                    "number": 12,
+                    "scheduled": "2020-08-15T17:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980549",
+                    "venue": {
+                        "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+                        "name": "Soldier Field",
+                        "city": "Chicago",
+                        "state": "IL",
+                        "country": "USA",
+                        "zip": "60605",
+                        "address": "1410 South Museum Campus Drive",
+                        "capacity": 61500,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2109",
+                        "location": {
+                            "lat": "41.862498",
+                            "lng": "-87.616979"
+                        }
+                    },
+                    "home": {
+                        "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                        "name": "Chicago Bears",
+                        "alias": "CHI",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4391"
+                    },
+                    "away": {
+                        "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                        "name": "Cleveland Browns",
+                        "alias": "CLE",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4417"
+                    }
+                },
+                {
+                    "id": "3df0a0f2-fd24-46ad-9d22-6460191fbe83",
+                    "status": "cancelled",
+                    "reference": "58436",
+                    "number": 13,
+                    "scheduled": "2020-08-15T17:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980521",
+                    "venue": {
+                        "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+                        "name": "Lambeau Field",
+                        "city": "Green Bay",
+                        "state": "WI",
+                        "country": "USA",
+                        "zip": "54304",
+                        "address": "1265 Lombardi Avenue",
+                        "capacity": 81441,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8183",
+                        "location": {
+                            "lat": "44.501357",
+                            "lng": "-88.062440"
+                        }
+                    },
+                    "home": {
+                        "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                        "name": "Green Bay Packers",
+                        "alias": "GB",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4420"
+                    },
+                    "away": {
+                        "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                        "name": "Arizona Cardinals",
+                        "alias": "ARI",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4412"
+                    }
+                },
+                {
+                    "id": "2c3d0321-4c8a-4e52-a1b8-745af83c77e7",
+                    "status": "cancelled",
+                    "reference": "58437",
+                    "number": 14,
+                    "scheduled": "2020-08-15T18:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980483",
+                    "venue": {
+                        "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+                        "name": "FedExField",
+                        "city": "Landover",
+                        "state": "MD",
+                        "country": "USA",
+                        "zip": "20785",
+                        "address": "1600 FedEx Way",
+                        "capacity": 67617,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:6652",
+                        "location": {
+                            "lat": "38.907724",
+                            "lng": "-76.864613"
+                        }
+                    },
+                    "home": {
+                        "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                        "name": "Washington Football Team",
+                        "alias": "WAS",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4432"
+                    },
+                    "away": {
+                        "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                        "name": "Tennessee Titans",
+                        "alias": "TEN",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:367364"
+                    }
+                },
+                {
+                    "id": "2c655342-4964-48be-9e28-b41faf7ffe96",
+                    "status": "cancelled",
+                    "reference": "58438",
+                    "number": 15,
+                    "scheduled": "2020-08-16T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980577",
+                    "venue": {
+                        "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                        "name": "GEHA Field at Arrowhead Stadium",
+                        "city": "Kansas City",
+                        "state": "MO",
+                        "country": "USA",
+                        "zip": "64129",
+                        "address": "One Arrowhead Drive",
+                        "capacity": 76416,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8189",
+                        "location": {
+                            "lat": "39.049019",
+                            "lng": "-94.484140"
+                        }
+                    },
+                    "home": {
+                        "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                        "name": "Kansas City Chiefs",
+                        "alias": "KC",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4422"
+                    },
+                    "away": {
+                        "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                        "name": "Cincinnati Bengals",
+                        "alias": "CIN",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4416"
+                    }
+                },
+                {
+                    "id": "b64ed99a-865c-448e-8a9f-07362ee20f33",
+                    "status": "cancelled",
+                    "reference": "58439",
+                    "number": 16,
+                    "scheduled": "2020-08-16T01:05:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980515",
+                    "venue": {
+                        "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+                        "name": "Empower Field at Mile High",
+                        "city": "Denver",
+                        "state": "CO",
+                        "country": "USA",
+                        "zip": "80204",
+                        "address": "1701 Mile High Stadium Circle",
+                        "capacity": 76125,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8179",
+                        "location": {
+                            "lat": "39.743865",
+                            "lng": "-105.020158"
+                        }
+                    },
+                    "home": {
+                        "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                        "name": "Denver Broncos",
+                        "alias": "DEN",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4418"
+                    },
+                    "away": {
+                        "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                        "name": "San Francisco 49ers",
+                        "alias": "SF",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4389"
+                    }
+                },
+                {
+                    "id": "f1e50076-3a5c-4dc6-848c-e7c9d77626b0",
+                    "status": "cancelled",
+                    "reference": "58440",
+                    "number": 17,
+                    "scheduled": "2020-08-17T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980469",
+                    "venue": {
+                        "id": "790c1f04-73c6-4f6f-8b1e-78a62260be90",
+                        "name": "SoFi Stadium",
+                        "city": "Inglewood",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "90301",
+                        "address": "1000 S Prairie Ave",
+                        "capacity": 70240,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:52183",
+                        "location": {
+                            "lat": "33.953536",
+                            "lng": "-118.338734"
+                        }
+                    },
+                    "home": {
+                        "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+                        "name": "Los Angeles Chargers",
+                        "alias": "LAC",
+                        "game_number": 1,
+                        "sr_id": "sr:competitor:4429"
+                    },
+                    "away": {
+                        "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                        "name": "Dallas Cowboys",
+                        "alias": "DAL",
+                        "sr_id": "sr:competitor:4392"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "58d1c229-a816-4961-8005-52976bf60e11",
+            "sequence": 2,
+            "title": "2",
+            "games": [
+                {
+                    "id": "f1744142-b00b-47e1-acd8-14fb272164d7",
+                    "status": "cancelled",
+                    "reference": "58442",
+                    "number": 19,
+                    "scheduled": "2020-08-20T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980501",
+                    "venue": {
+                        "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+                        "name": "Gillette Stadium",
+                        "city": "Foxborough",
+                        "state": "MA",
+                        "country": "USA",
+                        "zip": "02035",
+                        "address": "One Patriot Place",
+                        "capacity": 66829,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2379",
+                        "location": {
+                            "lat": "42.090944",
+                            "lng": "-71.264344"
+                        }
+                    },
+                    "home": {
+                        "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                        "name": "New England Patriots",
+                        "alias": "NE",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4424"
+                    },
+                    "away": {
+                        "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                        "name": "Carolina Panthers",
+                        "alias": "CAR",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4415"
+                    }
+                },
+                {
+                    "id": "c09bf132-1aa8-480f-b3e6-812584fceeed",
+                    "status": "cancelled",
+                    "reference": "58441",
+                    "number": 18,
+                    "scheduled": "2020-08-20T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980537",
+                    "venue": {
+                        "id": "50a5c833-1570-4c38-abc7-7914cf87dbde",
+                        "name": "Hard Rock Stadium",
+                        "city": "Miami Gardens",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "33056",
+                        "address": "2269 Northwest 199th Street",
+                        "capacity": 65326,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:21306",
+                        "location": {
+                            "lat": "25.958025",
+                            "lng": "-80.238724"
+                        }
+                    },
+                    "home": {
+                        "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                        "name": "Miami Dolphins",
+                        "alias": "MIA",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4287"
+                    },
+                    "away": {
+                        "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                        "name": "Philadelphia Eagles",
+                        "alias": "PHI",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4428"
+                    }
+                },
+                {
+                    "id": "530b3096-2a42-4087-b0c0-a0888178e1c2",
+                    "status": "cancelled",
+                    "reference": "58443",
+                    "number": 20,
+                    "scheduled": "2020-08-21T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980489",
+                    "venue": {
+                        "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+                        "name": "Ford Field",
+                        "city": "Detroit",
+                        "state": "MI",
+                        "country": "USA",
+                        "zip": "48226",
+                        "address": "2000 Brush Street",
+                        "capacity": 65000,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:8181",
+                        "location": {
+                            "lat": "42.339958",
+                            "lng": "-83.045636"
+                        }
+                    },
+                    "home": {
+                        "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                        "name": "Detroit Lions",
+                        "alias": "DET",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4419"
+                    },
+                    "away": {
+                        "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                        "name": "New York Jets",
+                        "alias": "NYJ",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4427"
+                    },
+                    "broadcast": {
+                        "network": "ESPN"
+                    }
+                },
+                {
+                    "id": "4bbd804b-383b-4d62-bb72-7167873051d8",
+                    "status": "cancelled",
+                    "reference": "58444",
+                    "number": 21,
+                    "scheduled": "2020-08-21T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980573",
+                    "venue": {
+                        "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+                        "name": "Highmark Stadium",
+                        "city": "Orchard Park",
+                        "state": "NY",
+                        "country": "USA",
+                        "zip": "14127",
+                        "address": "One Bills Drive",
+                        "capacity": 71608,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8171",
+                        "location": {
+                            "lat": "42.773826",
+                            "lng": "-78.786589"
+                        }
+                    },
+                    "home": {
+                        "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                        "name": "Buffalo Bills",
+                        "alias": "BUF",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4376"
+                    },
+                    "away": {
+                        "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                        "name": "Atlanta Falcons",
+                        "alias": "ATL",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4393"
+                    }
+                },
+                {
+                    "id": "67eec67f-68c3-43bf-bf2d-b515e25599d5",
+                    "status": "cancelled",
+                    "reference": "58445",
+                    "number": 22,
+                    "scheduled": "2020-08-21T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980495",
+                    "venue": {
+                        "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+                        "name": "Paycor Stadium",
+                        "city": "Cincinnati",
+                        "state": "OH",
+                        "country": "USA",
+                        "zip": "45202",
+                        "address": "One Paul Brown Stadium",
+                        "capacity": 65515,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8175",
+                        "location": {
+                            "lat": "39.095413",
+                            "lng": "-84.516204"
+                        }
+                    },
+                    "home": {
+                        "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                        "name": "Cincinnati Bengals",
+                        "alias": "CIN",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4416"
+                    },
+                    "away": {
+                        "id": "33405046-04ee-4058-a950-d606f8c30852",
+                        "name": "Minnesota Vikings",
+                        "alias": "MIN",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4423"
+                    }
+                },
+                {
+                    "id": "174d4eb3-ef7b-45c5-818b-b94d9143c005",
+                    "status": "cancelled",
+                    "reference": "58446",
+                    "number": 23,
+                    "scheduled": "2020-08-22T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980479",
+                    "venue": {
+                        "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+                        "name": "Levi's Stadium",
+                        "city": "Santa Clara",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "95054",
+                        "address": "4900 Marie P DeBartolo Way",
+                        "capacity": 68500,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:15672",
+                        "location": {
+                            "lat": "37.403000",
+                            "lng": "-121.970000"
+                        }
+                    },
+                    "home": {
+                        "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                        "name": "San Francisco 49ers",
+                        "alias": "SF",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4389"
+                    },
+                    "away": {
+                        "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+                        "name": "Las Vegas Raiders",
+                        "alias": "LV",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4390"
+                    }
+                },
+                {
+                    "id": "acd4830f-6fbc-4f64-b222-4dfb19d2d3d6",
+                    "status": "cancelled",
+                    "reference": "58447",
+                    "number": 24,
+                    "scheduled": "2020-08-22T20:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980475",
+                    "venue": {
+                        "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+                        "name": "Lambeau Field",
+                        "city": "Green Bay",
+                        "state": "WI",
+                        "country": "USA",
+                        "zip": "54304",
+                        "address": "1265 Lombardi Avenue",
+                        "capacity": 81441,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8183",
+                        "location": {
+                            "lat": "44.501357",
+                            "lng": "-88.062440"
+                        }
+                    },
+                    "home": {
+                        "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                        "name": "Green Bay Packers",
+                        "alias": "GB",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4420"
+                    },
+                    "away": {
+                        "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                        "name": "Cleveland Browns",
+                        "alias": "CLE",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4417"
+                    }
+                },
+                {
+                    "id": "ab49f9cd-cb1d-483d-aa7e-cec6ed4a5048",
+                    "status": "cancelled",
+                    "reference": "58454",
+                    "number": 31,
+                    "scheduled": "2020-08-23T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980473",
+                    "venue": {
+                        "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+                        "name": "Raymond James Stadium",
+                        "city": "Tampa",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "33607",
+                        "address": "4201 North Dale Mabry Highway",
+                        "capacity": 69218,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8205",
+                        "location": {
+                            "lat": "27.976211",
+                            "lng": "-82.503625"
+                        }
+                    },
+                    "home": {
+                        "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                        "name": "Tampa Bay Buccaneers",
+                        "alias": "TB",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4388"
+                    },
+                    "away": {
+                        "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                        "name": "Jacksonville Jaguars",
+                        "alias": "JAC",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4386"
+                    },
+                    "broadcast": {
+                        "network": "CBS"
+                    }
+                },
+                {
+                    "id": "df53b1fa-6fb3-4575-9ec6-58e96fab94a7",
+                    "status": "cancelled",
+                    "reference": "58450",
+                    "number": 27,
+                    "scheduled": "2020-08-23T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980561",
+                    "venue": {
+                        "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+                        "name": "NRG Stadium",
+                        "city": "Houston",
+                        "state": "TX",
+                        "country": "USA",
+                        "zip": "77054",
+                        "address": "One Reliant Park",
+                        "capacity": 72220,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:2402",
+                        "location": {
+                            "lat": "29.684735",
+                            "lng": "-95.410725"
+                        }
+                    },
+                    "home": {
+                        "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                        "name": "Houston Texans",
+                        "alias": "HOU",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4324"
+                    },
+                    "away": {
+                        "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                        "name": "Seattle Seahawks",
+                        "alias": "SEA",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4430"
+                    }
+                },
+                {
+                    "id": "ea0070cf-5dc6-4ab1-a7d9-3cb711452f20",
+                    "status": "cancelled",
+                    "reference": "58452",
+                    "number": 29,
+                    "scheduled": "2020-08-23T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980551",
+                    "venue": {
+                        "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+                        "name": "Nissan Stadium",
+                        "city": "Nashville",
+                        "state": "TN",
+                        "country": "USA",
+                        "zip": "37213",
+                        "address": "One Titans Way",
+                        "capacity": 69143,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8207",
+                        "location": {
+                            "lat": "36.166367",
+                            "lng": "-86.771223"
+                        }
+                    },
+                    "home": {
+                        "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                        "name": "Tennessee Titans",
+                        "alias": "TEN",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:367364"
+                    },
+                    "away": {
+                        "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                        "name": "New York Giants",
+                        "alias": "NYG",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4426"
+                    }
+                },
+                {
+                    "id": "55a58e82-11d4-4105-bef9-4fbdbf5cfd1a",
+                    "status": "cancelled",
+                    "reference": "58449",
+                    "number": 26,
+                    "scheduled": "2020-08-23T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980535",
+                    "venue": {
+                        "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+                        "name": "AT&T Stadium",
+                        "city": "Arlington",
+                        "state": "TX",
+                        "country": "USA",
+                        "zip": "76011",
+                        "address": "One Legends Way",
+                        "capacity": 80000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:6650",
+                        "location": {
+                            "lat": "32.747778",
+                            "lng": "-97.092778"
+                        }
+                    },
+                    "home": {
+                        "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                        "name": "Dallas Cowboys",
+                        "alias": "DAL",
+                        "sr_id": "sr:competitor:4392"
+                    },
+                    "away": {
+                        "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                        "name": "Baltimore Ravens",
+                        "alias": "BAL",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4413"
+                    }
+                },
+                {
+                    "id": "1a702063-10cd-4f1c-888a-93a01abb13bd",
+                    "status": "cancelled",
+                    "reference": "58448",
+                    "number": 25,
+                    "scheduled": "2020-08-23T01:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980583",
+                    "venue": {
+                        "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+                        "name": "State Farm Stadium",
+                        "city": "Glendale",
+                        "state": "AZ",
+                        "country": "USA",
+                        "zip": "85305",
+                        "address": "One Cardinals Drive",
+                        "capacity": 63400,
+                        "surface": "turf",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:8165",
+                        "location": {
+                            "lat": "33.527765",
+                            "lng": "-112.262090"
+                        }
+                    },
+                    "home": {
+                        "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                        "name": "Arizona Cardinals",
+                        "alias": "ARI",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4412"
+                    },
+                    "away": {
+                        "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                        "name": "Kansas City Chiefs",
+                        "alias": "KC",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4422"
+                    }
+                },
+                {
+                    "id": "eff595d5-494b-4bf7-829b-dc563784678d",
+                    "status": "cancelled",
+                    "reference": "58453",
+                    "number": 30,
+                    "scheduled": "2020-08-23T01:05:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980481",
+                    "venue": {
+                        "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+                        "name": "Empower Field at Mile High",
+                        "city": "Denver",
+                        "state": "CO",
+                        "country": "USA",
+                        "zip": "80204",
+                        "address": "1701 Mile High Stadium Circle",
+                        "capacity": 76125,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8179",
+                        "location": {
+                            "lat": "39.743865",
+                            "lng": "-105.020158"
+                        }
+                    },
+                    "home": {
+                        "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                        "name": "Denver Broncos",
+                        "alias": "DEN",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4418"
+                    },
+                    "away": {
+                        "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                        "name": "Chicago Bears",
+                        "alias": "CHI",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4391"
+                    }
+                },
+                {
+                    "id": "584d6b11-0a86-4a34-b68c-b625fc0380ff",
+                    "status": "cancelled",
+                    "reference": "58451",
+                    "number": 28,
+                    "scheduled": "2020-08-23T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980557",
+                    "venue": {
+                        "id": "790c1f04-73c6-4f6f-8b1e-78a62260be90",
+                        "name": "SoFi Stadium",
+                        "city": "Inglewood",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "90301",
+                        "address": "1000 S Prairie Ave",
+                        "capacity": 70240,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:52183",
+                        "location": {
+                            "lat": "33.953536",
+                            "lng": "-118.338734"
+                        }
+                    },
+                    "home": {
+                        "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+                        "name": "Los Angeles Chargers",
+                        "alias": "LAC",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4429"
+                    },
+                    "away": {
+                        "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                        "name": "Los Angeles Rams",
+                        "alias": "LA",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4387"
+                    }
+                },
+                {
+                    "id": "345f611b-a863-45e1-8d25-4ea501f9ea8c",
+                    "status": "cancelled",
+                    "reference": "58455",
+                    "number": 32,
+                    "scheduled": "2020-08-24T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980559",
+                    "venue": {
+                        "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+                        "name": "Acrisure Stadium",
+                        "city": "Pittsburgh",
+                        "state": "PA",
+                        "country": "USA",
+                        "zip": "15212",
+                        "address": "100 Art Rooney Avenue",
+                        "capacity": 68400,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8197",
+                        "location": {
+                            "lat": "40.446653",
+                            "lng": "-80.015844"
+                        }
+                    },
+                    "home": {
+                        "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                        "name": "Pittsburgh Steelers",
+                        "alias": "PIT",
+                        "sr_id": "sr:competitor:4345"
+                    },
+                    "away": {
+                        "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                        "name": "New Orleans Saints",
+                        "alias": "NO",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4425"
+                    },
+                    "broadcast": {
+                        "network": "FOX"
+                    }
+                },
+                {
+                    "id": "ef72a2c8-0c02-40fc-b128-18e3694e0bdd",
+                    "status": "cancelled",
+                    "reference": "58456",
+                    "number": 33,
+                    "scheduled": "2020-08-25T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980485",
+                    "venue": {
+                        "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+                        "name": "Lucas Oil Stadium",
+                        "city": "Indianapolis",
+                        "state": "IN",
+                        "country": "USA",
+                        "zip": "46225",
+                        "address": "500 South Capitol Avenue",
+                        "capacity": 67000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:8185",
+                        "location": {
+                            "lat": "39.760008",
+                            "lng": "-86.163906"
+                        }
+                    },
+                    "home": {
+                        "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                        "name": "Indianapolis Colts",
+                        "alias": "IND",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4421"
+                    },
+                    "away": {
+                        "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                        "name": "Washington Football Team",
+                        "alias": "WAS",
+                        "game_number": 2,
+                        "sr_id": "sr:competitor:4432"
+                    },
+                    "broadcast": {
+                        "network": "ESPN"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1605bb8d-5ef2-4f4f-9b2c-30a49d35f153",
+            "sequence": 3,
+            "title": "3",
+            "games": [
+                {
+                    "id": "8e3a68f6-f76e-4fc3-afb6-b2f22b6931fd",
+                    "status": "cancelled",
+                    "reference": "58460",
+                    "number": 37,
+                    "scheduled": "2020-08-27T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980533",
+                    "venue": {
+                        "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+                        "name": "Lincoln Financial Field",
+                        "city": "Philadelphia",
+                        "state": "PA",
+                        "country": "USA",
+                        "zip": "19148",
+                        "address": "1020 Pattison Avenue",
+                        "capacity": 69596,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1833",
+                        "location": {
+                            "lat": "39.900872",
+                            "lng": "-75.167311"
+                        }
+                    },
+                    "home": {
+                        "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                        "name": "Philadelphia Eagles",
+                        "alias": "PHI",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4428"
+                    },
+                    "away": {
+                        "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                        "name": "New England Patriots",
+                        "alias": "NE",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4424"
+                    }
+                },
+                {
+                    "id": "da9e04fb-393b-4841-a4d4-384b3fe705c4",
+                    "status": "cancelled",
+                    "reference": "58459",
+                    "number": 36,
+                    "scheduled": "2020-08-27T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980493",
+                    "venue": {
+                        "id": "50a5c833-1570-4c38-abc7-7914cf87dbde",
+                        "name": "Hard Rock Stadium",
+                        "city": "Miami Gardens",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "33056",
+                        "address": "2269 Northwest 199th Street",
+                        "capacity": 65326,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:21306",
+                        "location": {
+                            "lat": "25.958025",
+                            "lng": "-80.238724"
+                        }
+                    },
+                    "home": {
+                        "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                        "name": "Miami Dolphins",
+                        "alias": "MIA",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4287"
+                    },
+                    "away": {
+                        "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                        "name": "Detroit Lions",
+                        "alias": "DET",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4419"
+                    }
+                },
+                {
+                    "id": "ca7b10fc-7d3d-401e-8301-50a2ad4bfd48",
+                    "status": "cancelled",
+                    "reference": "58457",
+                    "number": 34,
+                    "scheduled": "2020-08-28T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980569",
+                    "venue": {
+                        "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+                        "name": "Lumen Field",
+                        "city": "Seattle",
+                        "state": "WA",
+                        "country": "USA",
+                        "zip": "98134",
+                        "address": "800 Occidental Avenue South",
+                        "capacity": 68740,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2291",
+                        "location": {
+                            "lat": "47.595165",
+                            "lng": "-122.331650"
+                        }
+                    },
+                    "home": {
+                        "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                        "name": "Seattle Seahawks",
+                        "alias": "SEA",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4430"
+                    },
+                    "away": {
+                        "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+                        "name": "Los Angeles Chargers",
+                        "alias": "LAC",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4429"
+                    }
+                },
+                {
+                    "id": "66e0c18e-36c2-4ddd-a032-5bdc320cc29b",
+                    "status": "cancelled",
+                    "reference": "58458",
+                    "number": 35,
+                    "scheduled": "2020-08-28T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980369",
+                    "venue": {
+                        "id": "53d42601-5dfb-40a7-bd94-da2c1d3a75e4",
+                        "name": "Allegiant Stadium",
+                        "city": "Las Vegas",
+                        "state": "NV",
+                        "country": "USA",
+                        "zip": "89118",
+                        "address": "3333 Al Davis Way",
+                        "capacity": 65000,
+                        "surface": "turf",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:51543",
+                        "location": {
+                            "lat": "36.090852",
+                            "lng": "-115.183339"
+                        }
+                    },
+                    "home": {
+                        "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+                        "name": "Las Vegas Raiders",
+                        "alias": "LV",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4390"
+                    },
+                    "away": {
+                        "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                        "name": "Arizona Cardinals",
+                        "alias": "ARI",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4412"
+                    }
+                },
+                {
+                    "id": "4485563e-35f5-4ff7-9b50-0ac4c51f8c23",
+                    "status": "cancelled",
+                    "reference": "58461",
+                    "number": 38,
+                    "scheduled": "2020-08-28T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980491",
+                    "venue": {
+                        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                        "name": "MetLife Stadium",
+                        "city": "East Rutherford",
+                        "state": "NJ",
+                        "country": "USA",
+                        "zip": "07073",
+                        "address": "One MetLife Stadium Drive",
+                        "capacity": 82500,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1981",
+                        "location": {
+                            "lat": "40.813611",
+                            "lng": "-74.074444"
+                        }
+                    },
+                    "home": {
+                        "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                        "name": "New York Jets",
+                        "alias": "NYJ",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4427"
+                    },
+                    "away": {
+                        "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                        "name": "Pittsburgh Steelers",
+                        "alias": "PIT",
+                        "sr_id": "sr:competitor:4345"
+                    }
+                },
+                {
+                    "id": "ddb22a7f-4f9a-41a3-8ef8-f1754972fa6a",
+                    "status": "cancelled",
+                    "reference": "58462",
+                    "number": 39,
+                    "scheduled": "2020-08-29T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980563",
+                    "venue": {
+                        "id": "1f2d393b-2291-4835-a412-0714966ea245",
+                        "name": "Mercedes-Benz Stadium",
+                        "city": "Atlanta",
+                        "state": "GA",
+                        "country": "USA",
+                        "zip": "30313",
+                        "address": "441 Martin Luther King Jr Drive NW",
+                        "capacity": 71000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:20343",
+                        "location": {
+                            "lat": "33.757368",
+                            "lng": "-84.401008"
+                        }
+                    },
+                    "home": {
+                        "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                        "name": "Atlanta Falcons",
+                        "alias": "ATL",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4393"
+                    },
+                    "away": {
+                        "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                        "name": "Cincinnati Bengals",
+                        "alias": "CIN",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4416"
+                    },
+                    "broadcast": {
+                        "network": "CBS"
+                    }
+                },
+                {
+                    "id": "452a5bd2-2724-461a-9a73-cfe5e117e653",
+                    "status": "cancelled",
+                    "reference": "58463",
+                    "number": 40,
+                    "scheduled": "2020-08-29T17:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980585",
+                    "venue": {
+                        "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+                        "name": "Soldier Field",
+                        "city": "Chicago",
+                        "state": "IL",
+                        "country": "USA",
+                        "zip": "60605",
+                        "address": "1410 South Museum Campus Drive",
+                        "capacity": 61500,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:2109",
+                        "location": {
+                            "lat": "41.862498",
+                            "lng": "-87.616979"
+                        }
+                    },
+                    "home": {
+                        "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                        "name": "Chicago Bears",
+                        "alias": "CHI",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4391"
+                    },
+                    "away": {
+                        "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                        "name": "San Francisco 49ers",
+                        "alias": "SF",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4389"
+                    }
+                },
+                {
+                    "id": "cdd7e04b-af96-4fbe-8743-de349225573c",
+                    "status": "cancelled",
+                    "reference": "58464",
+                    "number": 41,
+                    "scheduled": "2020-08-29T20:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980497",
+                    "venue": {
+                        "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+                        "name": "Highmark Stadium",
+                        "city": "Orchard Park",
+                        "state": "NY",
+                        "country": "USA",
+                        "zip": "14127",
+                        "address": "One Bills Drive",
+                        "capacity": 71608,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8171",
+                        "location": {
+                            "lat": "42.773826",
+                            "lng": "-78.786589"
+                        }
+                    },
+                    "home": {
+                        "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                        "name": "Buffalo Bills",
+                        "alias": "BUF",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4376"
+                    },
+                    "away": {
+                        "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                        "name": "Indianapolis Colts",
+                        "alias": "IND",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4421"
+                    }
+                },
+                {
+                    "id": "0de037d6-39e0-4195-8972-bddb30ab8a6b",
+                    "status": "cancelled",
+                    "reference": "58469",
+                    "number": 46,
+                    "scheduled": "2020-08-29T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980539",
+                    "venue": {
+                        "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+                        "name": "Raymond James Stadium",
+                        "city": "Tampa",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "33607",
+                        "address": "4201 North Dale Mabry Highway",
+                        "capacity": 69218,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8205",
+                        "location": {
+                            "lat": "27.976211",
+                            "lng": "-82.503625"
+                        }
+                    },
+                    "home": {
+                        "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                        "name": "Tampa Bay Buccaneers",
+                        "alias": "TB",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4388"
+                    },
+                    "away": {
+                        "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                        "name": "Tennessee Titans",
+                        "alias": "TEN",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:367364"
+                    }
+                },
+                {
+                    "id": "06539722-0f97-432c-9175-826eeb7664ae",
+                    "status": "cancelled",
+                    "reference": "58466",
+                    "number": 43,
+                    "scheduled": "2020-08-29T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980525",
+                    "venue": {
+                        "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+                        "name": "TIAA Bank Field",
+                        "city": "Jacksonville",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "32202",
+                        "address": "One EverBank Field Drive",
+                        "capacity": 67814,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8187",
+                        "location": {
+                            "lat": "30.324027",
+                            "lng": "-81.637239"
+                        }
+                    },
+                    "home": {
+                        "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                        "name": "Jacksonville Jaguars",
+                        "alias": "JAC",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4386"
+                    },
+                    "away": {
+                        "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                        "name": "Washington Football Team",
+                        "alias": "WAS",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4432"
+                    }
+                },
+                {
+                    "id": "1586490f-7080-478b-ae61-a2e7cd81cd55",
+                    "status": "cancelled",
+                    "reference": "58468",
+                    "number": 45,
+                    "scheduled": "2020-08-30T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980575",
+                    "venue": {
+                        "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                        "name": "Caesars Superdome",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "USA",
+                        "zip": "70112",
+                        "address": "1500 Sugar Bowl Drive",
+                        "capacity": 73208,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:8195",
+                        "location": {
+                            "lat": "29.950928",
+                            "lng": "-90.080876"
+                        }
+                    },
+                    "home": {
+                        "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                        "name": "New Orleans Saints",
+                        "alias": "NO",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4425"
+                    },
+                    "away": {
+                        "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                        "name": "Houston Texans",
+                        "alias": "HOU",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4324"
+                    }
+                },
+                {
+                    "id": "c06db070-9320-4508-b612-e66d2ae60837",
+                    "status": "cancelled",
+                    "reference": "58465",
+                    "number": 42,
+                    "scheduled": "2020-08-30T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980571",
+                    "venue": {
+                        "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+                        "name": "AT&T Stadium",
+                        "city": "Arlington",
+                        "state": "TX",
+                        "country": "USA",
+                        "zip": "76011",
+                        "address": "One Legends Way",
+                        "capacity": 80000,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:6650",
+                        "location": {
+                            "lat": "32.747778",
+                            "lng": "-97.092778"
+                        }
+                    },
+                    "home": {
+                        "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                        "name": "Dallas Cowboys",
+                        "alias": "DAL",
+                        "sr_id": "sr:competitor:4392"
+                    },
+                    "away": {
+                        "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                        "name": "Kansas City Chiefs",
+                        "alias": "KC",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4422"
+                    }
+                },
+                {
+                    "id": "d5fd9983-b7fd-4760-a3c9-3daf6ac806ef",
+                    "status": "cancelled",
+                    "reference": "58470",
+                    "number": 47,
+                    "scheduled": "2020-08-30T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980529",
+                    "venue": {
+                        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                        "name": "MetLife Stadium",
+                        "city": "East Rutherford",
+                        "state": "NJ",
+                        "country": "USA",
+                        "zip": "07073",
+                        "address": "One MetLife Stadium Drive",
+                        "capacity": 82500,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1981",
+                        "location": {
+                            "lat": "40.813611",
+                            "lng": "-74.074444"
+                        }
+                    },
+                    "home": {
+                        "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                        "name": "New York Giants",
+                        "alias": "NYG",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4426"
+                    },
+                    "away": {
+                        "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                        "name": "Green Bay Packers",
+                        "alias": "GB",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4420"
+                    }
+                },
+                {
+                    "id": "65662230-6e19-472b-9e2e-1c2258a3eb37",
+                    "status": "cancelled",
+                    "reference": "58467",
+                    "number": 44,
+                    "scheduled": "2020-08-30T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980555",
+                    "venue": {
+                        "id": "790c1f04-73c6-4f6f-8b1e-78a62260be90",
+                        "name": "SoFi Stadium",
+                        "city": "Inglewood",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "90301",
+                        "address": "1000 S Prairie Ave",
+                        "capacity": 70240,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:52183",
+                        "location": {
+                            "lat": "33.953536",
+                            "lng": "-118.338734"
+                        }
+                    },
+                    "home": {
+                        "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                        "name": "Los Angeles Rams",
+                        "alias": "LA",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4387"
+                    },
+                    "away": {
+                        "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                        "name": "Denver Broncos",
+                        "alias": "DEN",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4418"
+                    }
+                },
+                {
+                    "id": "e85bbf42-fb38-4625-82ec-d3b178e0b5ab",
+                    "status": "cancelled",
+                    "reference": "58471",
+                    "number": 48,
+                    "scheduled": "2020-08-30T20:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980579",
+                    "venue": {
+                        "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+                        "name": "Cleveland Browns Stadium",
+                        "city": "Cleveland",
+                        "state": "OH",
+                        "country": "USA",
+                        "zip": "44114",
+                        "address": "100 Alfred Lerner Way",
+                        "capacity": 67895,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8177",
+                        "location": {
+                            "lat": "41.506054",
+                            "lng": "-81.700004"
+                        }
+                    },
+                    "home": {
+                        "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                        "name": "Cleveland Browns",
+                        "alias": "CLE",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4417"
+                    },
+                    "away": {
+                        "id": "33405046-04ee-4058-a950-d606f8c30852",
+                        "name": "Minnesota Vikings",
+                        "alias": "MIN",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4423"
+                    },
+                    "broadcast": {
+                        "network": "FOX"
+                    }
+                },
+                {
+                    "id": "030b981f-a195-428d-aa55-a373d6297eb2",
+                    "status": "cancelled",
+                    "reference": "58472",
+                    "number": 49,
+                    "scheduled": "2020-08-31T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980509",
+                    "venue": {
+                        "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+                        "name": "M&T Bank Stadium",
+                        "city": "Baltimore",
+                        "state": "MD",
+                        "country": "USA",
+                        "zip": "21230",
+                        "address": "1101 Russell Street",
+                        "capacity": 71008,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8169",
+                        "location": {
+                            "lat": "39.277995",
+                            "lng": "-76.622592"
+                        }
+                    },
+                    "home": {
+                        "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                        "name": "Baltimore Ravens",
+                        "alias": "BAL",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4413"
+                    },
+                    "away": {
+                        "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                        "name": "Carolina Panthers",
+                        "alias": "CAR",
+                        "game_number": 3,
+                        "sr_id": "sr:competitor:4415"
+                    },
+                    "broadcast": {
+                        "network": "NBC"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "7ceb57fd-d24f-4f18-aa74-3bc957229b7c",
+            "sequence": 4,
+            "title": "4",
+            "games": [
+                {
+                    "id": "ff58f3a9-9e1b-4c51-a8c3-1cd7c3bea2ac",
+                    "status": "cancelled",
+                    "reference": "58482",
+                    "number": 59,
+                    "scheduled": "2020-09-03T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980499",
+                    "venue": {
+                        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+                        "name": "MetLife Stadium",
+                        "city": "East Rutherford",
+                        "state": "NJ",
+                        "country": "USA",
+                        "zip": "07073",
+                        "address": "One MetLife Stadium Drive",
+                        "capacity": 82500,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1981",
+                        "location": {
+                            "lat": "40.813611",
+                            "lng": "-74.074444"
+                        }
+                    },
+                    "home": {
+                        "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+                        "name": "New York Giants",
+                        "alias": "NYG",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4426"
+                    },
+                    "away": {
+                        "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+                        "name": "New England Patriots",
+                        "alias": "NE",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4424"
+                    }
+                },
+                {
+                    "id": "c14aca3e-ac83-43db-b4d6-e3119b798178",
+                    "status": "cancelled",
+                    "reference": "58475",
+                    "number": 52,
+                    "scheduled": "2020-09-03T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980513",
+                    "venue": {
+                        "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+                        "name": "Ford Field",
+                        "city": "Detroit",
+                        "state": "MI",
+                        "country": "USA",
+                        "zip": "48226",
+                        "address": "2000 Brush Street",
+                        "capacity": 65000,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:8181",
+                        "location": {
+                            "lat": "42.339958",
+                            "lng": "-83.045636"
+                        }
+                    },
+                    "home": {
+                        "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+                        "name": "Detroit Lions",
+                        "alias": "DET",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4419"
+                    },
+                    "away": {
+                        "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+                        "name": "Buffalo Bills",
+                        "alias": "BUF",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4376"
+                    }
+                },
+                {
+                    "id": "86c224f8-4ee6-4479-a206-309479048ed5",
+                    "status": "cancelled",
+                    "reference": "58477",
+                    "number": 54,
+                    "scheduled": "2020-09-03T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980477",
+                    "venue": {
+                        "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+                        "name": "TIAA Bank Field",
+                        "city": "Jacksonville",
+                        "state": "FL",
+                        "country": "USA",
+                        "zip": "32202",
+                        "address": "One EverBank Field Drive",
+                        "capacity": 67814,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8187",
+                        "location": {
+                            "lat": "30.324027",
+                            "lng": "-81.637239"
+                        }
+                    },
+                    "home": {
+                        "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+                        "name": "Jacksonville Jaguars",
+                        "alias": "JAC",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4386"
+                    },
+                    "away": {
+                        "id": "e6aa13a4-0055-48a9-bc41-be28dc106929",
+                        "name": "Atlanta Falcons",
+                        "alias": "ATL",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4393"
+                    }
+                },
+                {
+                    "id": "861649f2-eb66-4639-ae9e-c460e2662883",
+                    "status": "cancelled",
+                    "reference": "58474",
+                    "number": 51,
+                    "scheduled": "2020-09-03T23:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980511",
+                    "venue": {
+                        "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+                        "name": "Paycor Stadium",
+                        "city": "Cincinnati",
+                        "state": "OH",
+                        "country": "USA",
+                        "zip": "45202",
+                        "address": "One Paul Brown Stadium",
+                        "capacity": 65515,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8175",
+                        "location": {
+                            "lat": "39.095413",
+                            "lng": "-84.516204"
+                        }
+                    },
+                    "home": {
+                        "id": "ad4ae08f-d808-42d5-a1e6-e9bc4e34d123",
+                        "name": "Cincinnati Bengals",
+                        "alias": "CIN",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4416"
+                    },
+                    "away": {
+                        "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+                        "name": "Indianapolis Colts",
+                        "alias": "IND",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4421"
+                    }
+                },
+                {
+                    "id": "94e06b67-2aab-442d-a670-5557dcd5d4da",
+                    "status": "cancelled",
+                    "reference": "58486",
+                    "number": 63,
+                    "scheduled": "2020-09-03T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980553",
+                    "venue": {
+                        "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+                        "name": "Lincoln Financial Field",
+                        "city": "Philadelphia",
+                        "state": "PA",
+                        "country": "USA",
+                        "zip": "19148",
+                        "address": "1020 Pattison Avenue",
+                        "capacity": 69596,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:1833",
+                        "location": {
+                            "lat": "39.900872",
+                            "lng": "-75.167311"
+                        }
+                    },
+                    "home": {
+                        "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+                        "name": "Philadelphia Eagles",
+                        "alias": "PHI",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4428"
+                    },
+                    "away": {
+                        "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+                        "name": "New York Jets",
+                        "alias": "NYJ",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4427"
+                    }
+                },
+                {
+                    "id": "7ead623e-b0ea-43d4-9b93-ca7240633d00",
+                    "status": "cancelled",
+                    "reference": "58485",
+                    "number": 62,
+                    "scheduled": "2020-09-03T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980547",
+                    "venue": {
+                        "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+                        "name": "Cleveland Browns Stadium",
+                        "city": "Cleveland",
+                        "state": "OH",
+                        "country": "USA",
+                        "zip": "44114",
+                        "address": "100 Alfred Lerner Way",
+                        "capacity": 67895,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8177",
+                        "location": {
+                            "lat": "41.506054",
+                            "lng": "-81.700004"
+                        }
+                    },
+                    "home": {
+                        "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+                        "name": "Cleveland Browns",
+                        "alias": "CLE",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4417"
+                    },
+                    "away": {
+                        "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+                        "name": "Tampa Bay Buccaneers",
+                        "alias": "TB",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4388"
+                    }
+                },
+                {
+                    "id": "2caaa966-85aa-4db7-aceb-28b6e9c7986f",
+                    "status": "cancelled",
+                    "reference": "58488",
+                    "number": 65,
+                    "scheduled": "2020-09-03T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980523",
+                    "venue": {
+                        "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+                        "name": "Bank of America Stadium",
+                        "city": "Charlotte",
+                        "state": "NC",
+                        "country": "USA",
+                        "zip": "28202",
+                        "address": "800 South Mint Street",
+                        "capacity": 74867,
+                        "surface": "artificial",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8173",
+                        "location": {
+                            "lat": "35.225937",
+                            "lng": "-80.853133"
+                        }
+                    },
+                    "home": {
+                        "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+                        "name": "Carolina Panthers",
+                        "alias": "CAR",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4415"
+                    },
+                    "away": {
+                        "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+                        "name": "Pittsburgh Steelers",
+                        "alias": "PIT",
+                        "sr_id": "sr:competitor:4345"
+                    }
+                },
+                {
+                    "id": "09ff242f-4e86-4e7d-8473-84930703b0e3",
+                    "status": "cancelled",
+                    "reference": "58487",
+                    "number": 64,
+                    "scheduled": "2020-09-03T23:30:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980589",
+                    "venue": {
+                        "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+                        "name": "FedExField",
+                        "city": "Landover",
+                        "state": "MD",
+                        "country": "USA",
+                        "zip": "20785",
+                        "address": "1600 FedEx Way",
+                        "capacity": 67617,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:6652",
+                        "location": {
+                            "lat": "38.907724",
+                            "lng": "-76.864613"
+                        }
+                    },
+                    "home": {
+                        "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+                        "name": "Washington Football Team",
+                        "alias": "WAS",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4432"
+                    },
+                    "away": {
+                        "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+                        "name": "Baltimore Ravens",
+                        "alias": "BAL",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4413"
+                    }
+                },
+                {
+                    "id": "c5aea60e-1f33-444f-a6b9-fbcc0b1321ff",
+                    "status": "cancelled",
+                    "reference": "58478",
+                    "number": 55,
+                    "scheduled": "2020-09-04T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980503",
+                    "venue": {
+                        "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+                        "name": "GEHA Field at Arrowhead Stadium",
+                        "city": "Kansas City",
+                        "state": "MO",
+                        "country": "USA",
+                        "zip": "64129",
+                        "address": "One Arrowhead Drive",
+                        "capacity": 76416,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8189",
+                        "location": {
+                            "lat": "39.049019",
+                            "lng": "-94.484140"
+                        }
+                    },
+                    "home": {
+                        "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+                        "name": "Kansas City Chiefs",
+                        "alias": "KC",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4422"
+                    },
+                    "away": {
+                        "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+                        "name": "Green Bay Packers",
+                        "alias": "GB",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4420"
+                    }
+                },
+                {
+                    "id": "89320183-f4c5-4903-a37c-e4cda0790a9a",
+                    "status": "cancelled",
+                    "reference": "58481",
+                    "number": 58,
+                    "scheduled": "2020-09-04T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980595",
+                    "venue": {
+                        "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+                        "name": "Caesars Superdome",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "USA",
+                        "zip": "70112",
+                        "address": "1500 Sugar Bowl Drive",
+                        "capacity": 73208,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:8195",
+                        "location": {
+                            "lat": "29.950928",
+                            "lng": "-90.080876"
+                        }
+                    },
+                    "home": {
+                        "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+                        "name": "New Orleans Saints",
+                        "alias": "NO",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4425"
+                    },
+                    "away": {
+                        "id": "4809ecb0-abd3-451d-9c4a-92a90b83ca06",
+                        "name": "Miami Dolphins",
+                        "alias": "MIA",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4287"
+                    }
+                },
+                {
+                    "id": "7a440551-45cc-4e8f-8a53-39ac36347711",
+                    "status": "cancelled",
+                    "reference": "58484",
+                    "number": 61,
+                    "scheduled": "2020-09-04T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980487",
+                    "venue": {
+                        "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+                        "name": "Nissan Stadium",
+                        "city": "Nashville",
+                        "state": "TN",
+                        "country": "USA",
+                        "zip": "37213",
+                        "address": "One Titans Way",
+                        "capacity": 69143,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:8207",
+                        "location": {
+                            "lat": "36.166367",
+                            "lng": "-86.771223"
+                        }
+                    },
+                    "home": {
+                        "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+                        "name": "Tennessee Titans",
+                        "alias": "TEN",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:367364"
+                    },
+                    "away": {
+                        "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+                        "name": "Chicago Bears",
+                        "alias": "CHI",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4391"
+                    }
+                },
+                {
+                    "id": "503fed99-01db-4185-91df-eb44f43d6391",
+                    "status": "cancelled",
+                    "reference": "58480",
+                    "number": 57,
+                    "scheduled": "2020-09-04T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "venue": {
+                        "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+                        "name": "U.S. Bank Stadium",
+                        "city": "Minneapolis",
+                        "state": "MN",
+                        "country": "USA",
+                        "zip": "55415",
+                        "address": "900 S 5th Street",
+                        "capacity": 66655,
+                        "surface": "artificial",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:18423",
+                        "location": {
+                            "lat": "44.973686",
+                            "lng": "-93.257458"
+                        }
+                    },
+                    "home": {
+                        "id": "33405046-04ee-4058-a950-d606f8c30852",
+                        "name": "Minnesota Vikings",
+                        "alias": "MIN",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4423"
+                    },
+                    "away": {
+                        "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+                        "name": "Seattle Seahawks",
+                        "alias": "SEA",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4430"
+                    }
+                },
+                {
+                    "id": "02235e9e-fa48-4d57-9d62-a85d55d43894",
+                    "status": "cancelled",
+                    "reference": "58476",
+                    "number": 53,
+                    "scheduled": "2020-09-04T00:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980517",
+                    "venue": {
+                        "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+                        "name": "NRG Stadium",
+                        "city": "Houston",
+                        "state": "TX",
+                        "country": "USA",
+                        "zip": "77054",
+                        "address": "One Reliant Park",
+                        "capacity": 72220,
+                        "surface": "artificial",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:2402",
+                        "location": {
+                            "lat": "29.684735",
+                            "lng": "-95.410725"
+                        }
+                    },
+                    "home": {
+                        "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+                        "name": "Houston Texans",
+                        "alias": "HOU",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4324"
+                    },
+                    "away": {
+                        "id": "e627eec7-bbae-4fa4-8e73-8e1d6bc5c060",
+                        "name": "Dallas Cowboys",
+                        "alias": "DAL",
+                        "sr_id": "sr:competitor:4392"
+                    }
+                },
+                {
+                    "id": "ca3c1649-7171-4fc9-9ff3-69295726ea9c",
+                    "status": "cancelled",
+                    "reference": "58473",
+                    "number": 50,
+                    "scheduled": "2020-09-04T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980519",
+                    "venue": {
+                        "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+                        "name": "State Farm Stadium",
+                        "city": "Glendale",
+                        "state": "AZ",
+                        "country": "USA",
+                        "zip": "85305",
+                        "address": "One Cardinals Drive",
+                        "capacity": 63400,
+                        "surface": "turf",
+                        "roof_type": "retractable_dome",
+                        "sr_id": "sr:venue:8165",
+                        "location": {
+                            "lat": "33.527765",
+                            "lng": "-112.262090"
+                        }
+                    },
+                    "home": {
+                        "id": "de760528-1dc0-416a-a978-b510d20692ff",
+                        "name": "Arizona Cardinals",
+                        "alias": "ARI",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4412"
+                    },
+                    "away": {
+                        "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+                        "name": "Denver Broncos",
+                        "alias": "DEN",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4418"
+                    }
+                },
+                {
+                    "id": "2f64d8fa-1a39-4c66-b964-07a6808bbb25",
+                    "status": "cancelled",
+                    "reference": "58479",
+                    "number": 56,
+                    "scheduled": "2020-09-04T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980541",
+                    "venue": {
+                        "id": "53d42601-5dfb-40a7-bd94-da2c1d3a75e4",
+                        "name": "Allegiant Stadium",
+                        "city": "Las Vegas",
+                        "state": "NV",
+                        "country": "USA",
+                        "zip": "89118",
+                        "address": "3333 Al Davis Way",
+                        "capacity": 65000,
+                        "surface": "turf",
+                        "roof_type": "dome",
+                        "sr_id": "sr:venue:51543",
+                        "location": {
+                            "lat": "36.090852",
+                            "lng": "-115.183339"
+                        }
+                    },
+                    "home": {
+                        "id": "7d4fcc64-9cb5-4d1b-8e75-8a906d1e1576",
+                        "name": "Las Vegas Raiders",
+                        "alias": "LV",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4390"
+                    },
+                    "away": {
+                        "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+                        "name": "Los Angeles Rams",
+                        "alias": "LA",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4387"
+                    }
+                },
+                {
+                    "id": "13c3b345-1c4a-4044-8ae1-e9790b1bf13d",
+                    "status": "cancelled",
+                    "reference": "58483",
+                    "number": 60,
+                    "scheduled": "2020-09-04T02:00:00+00:00",
+                    "entry_mode": "LDE",
+                    "sr_id": "sr:match:21980565",
+                    "venue": {
+                        "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+                        "name": "Levi's Stadium",
+                        "city": "Santa Clara",
+                        "state": "CA",
+                        "country": "USA",
+                        "zip": "95054",
+                        "address": "4900 Marie P DeBartolo Way",
+                        "capacity": 68500,
+                        "surface": "turf",
+                        "roof_type": "outdoor",
+                        "sr_id": "sr:venue:15672",
+                        "location": {
+                            "lat": "37.403000",
+                            "lng": "-121.970000"
+                        }
+                    },
+                    "home": {
+                        "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+                        "name": "San Francisco 49ers",
+                        "alias": "SF",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4389"
+                    },
+                    "away": {
+                        "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+                        "name": "Los Angeles Chargers",
+                        "alias": "LAC",
+                        "game_number": 4,
+                        "sr_id": "sr:competitor:4429"
+                    }
+                }
+            ]
+        }
+    ],
+    "_comment": "Generation started @ 2024-12-31 15:54:07 UTC ended @ 2024-12-31 15:54:07 UTC"
+}
