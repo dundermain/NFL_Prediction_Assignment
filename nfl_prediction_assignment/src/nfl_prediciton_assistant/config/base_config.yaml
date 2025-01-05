@@ -1,0 +1,192 @@
+knowledge_base:
+  csv_paths:
+  - /Kaggle_Data/games.csv
+  - /Kaggle_Data/pbp-2019.csv
+  - /Kaggle_Data/team_stats_2003_2023.csv
+  - /Kaggle_Data/NFL Play by Play 2009-2018 (v5).csv
+  - /Kaggle_Data/pbp-2021.csv
+  - /Kaggle_Data/players.csv
+  - /Kaggle_Data/AmericanFootball98.csv
+  - /Kaggle_Data/week_data.csv
+  - /Kaggle_Data/NFLInjuries2012_2017.csv
+  - /Kaggle_Data/weather_20131231.csv
+  - /Kaggle_Data/players_2013-12-12.csv
+  - /Kaggle_Data/combine.csv
+  - /Kaggle_Data/Concussion Injuries 2012-2014.csv
+  - /Kaggle_Data/nfl_combine_2010_to_2023.csv
+  - /Kaggle_Data/plays.csv
+
+
+  json_paths:
+  - /SportsRadar_API/teams/teams_info.json
+  - /SportsRadar_API/current_season_schedule/current_season_schedule.json
+  - /SportsRadar_API/season_schedule/2021/season_schedule_2021_PRE.json
+  - /SportsRadar_API/season_schedule/2021/season_schedule_2021_REG.json
+  - /SportsRadar_API/season_schedule/2021/season_schedule_2021_PST.json
+  - /SportsRadar_API/season_schedule/2022/season_schedule_2022_REG.json
+  - /SportsRadar_API/season_schedule/2022/season_schedule_2022_PRE.json
+  - /SportsRadar_API/season_schedule/2022/season_schedule_2022_PST.json
+  - /SportsRadar_API/season_schedule/2020/season_schedule_2020_REG.json
+  - /SportsRadar_API/season_schedule/2020/season_schedule_2020_PST.json
+  - /SportsRadar_API/season_schedule/2020/season_schedule_2020_PRE.json
+  - /SportsRadar_API/season_schedule/2024/season_schedule_2024_PST.json
+  - /SportsRadar_API/season_schedule/2024/season_schedule_2024_REG.json
+  - /SportsRadar_API/season_schedule/2024/season_schedule_2024_PRE.json
+  - /SportsRadar_API/season_schedule/2023/season_schedule_2023_REG.json
+  - /SportsRadar_API/season_schedule/2023/season_schedule_2023_PST.json
+  - /SportsRadar_API/season_schedule/2023/season_schedule_2023_PRE.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Jacksonville Jaguars.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Dallas Cowboys.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Los Angeles Rams.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Buffalo Bills.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Cleveland Browns.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Seattle Seahawks.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Washington Commanders.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Carolina Panthers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Houston Texans.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_New Orleans Saints.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Atlanta Falcons.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Philadelphia Eagles.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Tampa Bay Buccaneers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_New England Patriots.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Denver Broncos.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Miami Dolphins.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Cincinnati Bengals.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Detroit Lions.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_New York Jets.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Arizona Cardinals.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Indianapolis Colts.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Las Vegas Raiders.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Los Angeles Chargers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_San Francisco 49ers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Green Bay Packers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Baltimore Ravens.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Chicago Bears.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Tennessee Titans.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Minnesota Vikings.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Kansas City Chiefs.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_Pittsburgh Steelers.json
+  - /SportsRadar_API/seasonal_stats/2022/seasonal_team_stats_2022_REG_New York Giants.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_New Orleans Saints.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Las Vegas Raiders.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Chicago Bears.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Cincinnati Bengals.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Houston Texans.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Baltimore Ravens.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Los Angeles Rams.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Arizona Cardinals.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Tampa Bay Buccaneers.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Detroit Lions.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Seattle Seahawks.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Buffalo Bills.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Atlanta Falcons.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Jacksonville Jaguars.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_New York Jets.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Philadelphia Eagles.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Carolina Panthers.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Tennessee Titans.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Kansas City Chiefs.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Denver Broncos.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Miami Dolphins.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_San Francisco 49ers.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Indianapolis Colts.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Los Angeles Chargers.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_New York Giants.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Minnesota Vikings.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Pittsburgh Steelers.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Washington Commanders.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Dallas Cowboys.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Cleveland Browns.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_New England Patriots.json
+  - /SportsRadar_API/seasonal_stats/2024/seasonal_team_stats_2024_REG_Green Bay Packers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_New York Jets.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Philadelphia Eagles.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Los Angeles Chargers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Arizona Cardinals.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Tennessee Titans.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Buffalo Bills.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Las Vegas Raiders.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Dallas Cowboys.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Kansas City Chiefs.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Indianapolis Colts.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Jacksonville Jaguars.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Chicago Bears.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Washington Commanders.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Carolina Panthers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Miami Dolphins.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Green Bay Packers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Baltimore Ravens.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Seattle Seahawks.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Cleveland Browns.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Detroit Lions.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Pittsburgh Steelers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Denver Broncos.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Cincinnati Bengals.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_New England Patriots.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Tampa Bay Buccaneers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_New York Giants.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_New Orleans Saints.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_San Francisco 49ers.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Los Angeles Rams.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Minnesota Vikings.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Atlanta Falcons.json
+  - /SportsRadar_API/seasonal_stats/2023/seasonal_team_stats_2023_REG_Houston Texans.json
+  - /SportsRadar_API/season_standing/2024/season_standings_2024_REG.json
+  - /SportsRadar_API/season_standing/2024/season_standings_2024_PST.json
+  - /SportsRadar_API/season_standing/2024/season_standings_2024_PRE.json
+  - /SportsRadar_API/season_standing/2023/season_standings_2023_PRE.json
+  - /SportsRadar_API/season_standing/2023/season_standings_2023_PST.json
+  - /SportsRadar_API/season_standing/2023/season_standings_2023_REG.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week16.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week1.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week17.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week2.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_PRE_week3.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week8.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week10.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week13.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week14.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week6.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_PRE_week1.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week5.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week7.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week4.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_PRE_week2.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week12.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week11.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week15.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week9.json
+  - /SportsRadar_API/nfl_injuries/2024/nfl_injuries_2024_REG_week3.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_PRE_week3.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week5.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week7.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week4.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_PST_week4.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week2.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week3.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week6.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_REG_week1.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_PRE_week2.json
+  - /SportsRadar_API/nfl_injuries/2023/nfl_injuries_2023_PRE_week1.json
+
+   
+
+db: 
+  chroma_db_path: db
+
+nfl_websites:
+  nfl: https://www.nfl.com/international/
+  espn: https://www.espn.com/nfl/
+  nfl_news: https://www.nfl.com/news/
+  cbs_injuries: https://www.cbssports.com/nfl/injuries/    
+  cbs_stats: https://www.cbssports.com/nfl/stats/
+  pfr: https://www.pro-football-reference.com/
+  ap: https://apnews.com/hub/nfl
+  bleach: https://bleacherreport.com/nfl     #they have a request limiter. increase the sleep time or skip it
+  bbc: https://www.bbc.com/sport/american-football
+
+
+  
+
+
+
